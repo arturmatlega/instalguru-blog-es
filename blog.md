@@ -1,10 +1,9 @@
 ---
 layout: blog
 pagename: blog
-seo_title: Blog InstalGuru - Artykuły i specjalistyczne porady
-seo_description: |-
-  Najlepsze porady w zakresie budowy, remontu lub montażu instalacji
-  wodnych i grzewczych? Sprawdź, jaką dawkę wiedzy przygotowali dla Ciebie nasi specjaliści.
+seo_title: Instalguru blog | Conocimiento especializado y ayuda profesional
+seo_description: "¿Busca consejos y soluciones para la construcción, la renovación
+  o el equipamiento del jardín? Elija un tema en particular y utilice los conocimientos."
 menu: true
 menu_title: Blog
 page_header: Blog
@@ -25,14 +24,10 @@ hreflangs:
   link: https://instalguru.cz/blog.html
 
 ---
-## Poszukujesz porad związanych z budową, remontem lub wyposażeniem budynku?
+¿Planea construir un edificio? ¿Esperando una renovación de la casa? Si está buscando respuestas a preguntas sobre mejoras en el hogar o el jardín o necesita soluciones particulares, hemos reunido toda la información básica que puede utilizar libremente.
 
-Dobrze trafiłeś! Znajdziesz tu informacje na temat najlepszych rozwiązań gwarantujących wysoką jakość oraz bezpieczeństwo - nie tylko z zakresu budownictwa, ale także techniki grzewczej, wentylacji, kanalizacji czy montażu.
+Sugerimos técnicas y métodos que podrían mejorar su casa para que sea económica, ecológica y duradera. Explicamos qué tecnologías tienen un impacto positivo directo en el confort de su vida.
 
-Blog InstalGuru to sprawdzone i rzetelne źródło wiedzy, gdzie specjaliści dzielą się swoim wieloletnim doświadczeniem oraz specjalistyczną wiedzą. Dzięki wskazówkom montażowym i konserwacyjnym będziesz w stanie zaoszczędzić zarówno swój cenny czas, jak i pieniądze. W wielu sprawach wezwanie hydraulika czy montera stanie się zbędne, ponieważ sam będziesz mógł wykonać proste czynności wraz z przygotowanym przez nas instruktażem.
+## Experiencia y conocimientos prácticos
 
-## Porady i informacje dostępne w serwisie sprawią, że już nigdy więcej nie wpadniesz w pułapkę pseudospecjalistów.
-
-Dzięki nam to Ty staniesz się specjalistą w swoim domu, co przełoży się na wybór wyposażenia, które będzie praktyczne i wytrzymałe. Z naszą pomocą bez problemu wykonasz także drobne prace montażowe.
-
-Znajdź temat, który Cię interesuje i działaj!
+Nuestras recomendaciones no sólo se refieren a qué equipo o suministros elegir. Los conocimientos especializados le ayudarán a realizar todos los trabajos de instalación y acabado. Las instrucciones claras y comprensibles de nuestros especialistas serán una ayuda inestimable que puede mejorar muchas actividades y tareas que usted realiza cada día.
