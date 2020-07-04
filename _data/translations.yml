@@ -1,16 +1,17 @@
-page404-1: "Strona nie znaleziona :("
-page404-2: "Żądana strona nie została znaleziona."
-page404-3: "Back to home page"
-lastPosts: "Najnowsze wpisy na blogu"
-allPosts: "Pokaż wszystkie posty"
-allRights: "© 2020 InstalGuru. Wszystkie prawa zastrzeżone."
-polish: "Język polski"
-english: "Język angielski"
-german: "Język niemiecki"
-italian: Język włoski"
-french: "Język francuski"
-spanish: "Język hiszpański"
-czech: "Język czeski"
-author: "Autor"
-post_publication: "Data publikacji"
-post_update: "Data aktualizacji"
+---
+page404-1: Página no encontrada :(
+page404-2: No se encontró la página solicitada.
+page404-3: Volver a la página de inicio
+lastPosts: Artículos recientes
+allPosts: Mostrar todos los mensajes
+allRights: "© 2020 InstalGuru.  Todos los derechos reservados."
+polish: Polaco
+english: Inglés
+german: Alemán
+italian: Italiano
+french: Francés
+spanish: Español
+czech: Checo
+author: Autor
+post_publication: Fecha de publicación
+post_update: Fecha de actualización
