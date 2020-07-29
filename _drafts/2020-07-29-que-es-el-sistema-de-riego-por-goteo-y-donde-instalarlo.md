@@ -34,7 +34,7 @@ faq:
     adhesiva justo al lado de las plantas para que el agua pueda fluir directamente
     a sus raíces. Luego conecta la línea con la fuente de agua y ajusta la presión.
 author_name: Maksymilian Ignacyk
-author_desc: Sales and Marketing Specialist at Instalguru
+author_desc: Especialista en ventas y marketing en Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs: []
