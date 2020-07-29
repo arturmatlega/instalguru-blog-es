@@ -1,132 +1,134 @@
 ---
 layout: post
-seo_title: What is drip irrigation system and where to install it?
-seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
-  is a modern plant watering system. \U0001F449 Check if you can use it and how to
-  install it."
-date: 2020-07-26 22:00:00 +0000
-update_date: 2020-07-26 22:00:00 +0000
-title: How does drip irrigation system work? Where can it be used?
-small-intro: How to make your garden look stunning? Drip irrigation system might be
-  aa tremendous help.
-intro: How to make your garden look stunning? It's a problem of many gardeners. The
-  secret of beautiful plants lies in taking a proper care of them. One should start
-  from the basics, like everyday watering. It can be done the standard way, namely,
-  using a watering can, however nowadays it's difficult to find enough time for such
-  mundane tasks. Why not use modern technology? Watering systems such as drip irrigation
-  are the best way to go. What exactly is this method and where can you use drip system?
+seo_title: "¿Qué es el sistema de riego por goteo y dónde instalarlo?"
+seo_description: "¿Te preguntas cómo cuidar tu jardín? \U0001F333 La irrigación por
+  goteo es un sistema moderno de riego de plantas. \U0001F449 Comprueba si puedes
+  usarlo y cómo instalarlo."
+date: 2020-07-28 22:00:00 +0000
+update_date: 2020-07-28 22:00:00 +0000
+title: "¿Cómo funciona el sistema de riego por goteo? ¿Dónde se puede utilizar?"
+small-intro: "¿Cómo hacer que su jardín se vea impresionante? El sistema de irrigación
+  por goteo podría ser de gran ayuda."
+intro: "¿Cómo hacer que su jardín se vea impresionante? Es un problema de muchos jardineros.
+  El secreto de las plantas hermosas radica en cuidarlas adecuadamente. Uno debe empezar
+  desde lo básico, como el riego diario. Se puede hacer de la manera estándar, es
+  decir, usando una regadera, sin embargo hoy en día es difícil encontrar tiempo suficiente
+  para estas tareas tan mundanas. ¿Por qué no usar la tecnología moderna? Los sistemas
+  de riego como el riego por goteo son la mejor manera de hacerlo. ¿Qué es exactamente
+  este método y dónde se puede usar el sistema de goteo?"
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
-photo_desc: Drip irrigation system – an innovative watering method
+photo_desc: Sistema de irrigación por goteo - un innovador método de riego
 faq:
-- question: What is drip irrigation?
-  answer: Drip irrigation is one of the modern methods of plants watering. It's much
-    more efficient than traditional watering and it can save a lot of time, money
-    and resources.
-- question: How a drip irrigation system works?
-  answer: A drip irrigation system consists of a drip line – a hose or tape and a
-    water source. The water flows through the line and drips out of small holes. It's
-    a solution that provides the plants a perfect amount of water.
-- question: How to make a cheap drip irrigation system?
-  answer: All you need to make a cheap drip irrigation system is a drip line and a
-    source of water. Put the drip hose or tape right by the plants so that the water
-    can flow directly to their roots. Then connect the line with water source and
-    adjust the pressure.
+- question: "¿Qué es el riego por goteo?"
+  answer: La irrigación por goteo es uno de los métodos modernos de riego de plantas.
+    Es mucho más eficiente que el riego tradicional y puede ahorrar mucho tiempo,
+    dinero y recursos.
+- question: "¿Cómo funciona un sistema de riego por goteo?"
+  answer: Un sistema de irrigación por goteo consiste en una línea de goteo - una
+    manguera o cinta y una fuente de agua. El agua fluye a través de la línea y gotea
+    por pequeños agujeros. Es una solución que proporciona a las plantas una cantidad
+    perfecta de agua.
+- question: "¿Cómo hacer un sistema de irrigación por goteo barato?"
+  answer: Todo lo que necesitas para hacer un sistema de riego por goteo barato es
+    una línea de goteo y una fuente de agua. Ponga la manguera de goteo o la cinta
+    adhesiva justo al lado de las plantas para que el agua pueda fluir directamente
+    a sus raíces. Luego conecta la línea con la fuente de agua y ajusta la presión.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
+toc: true
 hreflangs: []
 
 ---
-## What is a drip irrigation system?
+## ¿Qué es un sistema de irrigación por goteo?
 
-Drip irrigation is one of the most **advanced method** of plant watering. It involves automatic water distribution, which saves a lot of time and energy. Compared to standard methods – a watering can or a garden hose, a drip irrigation system is much more efficient.
+La irrigación por goteo es uno de **los métodos más avanzados** de riego de plantas. Implica la distribución automática del agua, lo que ahorra mucho tiempo y energía. Comparado con los métodos estándar - una regadera o una manguera de jardín, un sistema de riego por goteo es mucho más eficiente.
 
-**In times when droughts are becoming increasingly regular, keeping the right moisture level is the most important part of plant care.** The standard methods of watering, however, are not only ineffective but also very wasteful. Even the most experienced gardener is unable to water a plant with 100% precision, providing enough moisture without any waste. It would simply take too much time. A watering system with a drip line is a perfect solution to this problem. It uses a set of tubes to transport the exact amount of water needed.
+**En tiempos en los que las sequías son cada vez más regulares, mantener el nivel de humedad adecuado es la parte más importante del cuidado de las plantas.** Sin embargo, los métodos estándar de riego no sólo son ineficaces, sino también muy derrochadores. Incluso el jardinero más experimentado es incapaz de regar una planta con una precisión del 100%, proporcionando suficiente humedad sin ningún tipo de desperdicio. Simplemente tomaría demasiado tiempo. Un sistema de riego con una línea de goteo es una solución perfecta para este problema. Utiliza un conjunto de tubos para transportar la cantidad exacta de agua necesaria.
 
-## How does a drip line work?
+## ¿Cómo funciona una línea de goteo?
 
-A drip irrigation system is a very simple installation. The **core component here is a drip line** – or, in some cases, a **drip tape**. Either of those is connected with a water source. The water flows through a system of pipes arranged on the ground. It drips out of tiny holes and moisturizes the plants – hence the name of the method. **Thanks to this solution, the roots system always has access to water – across the whole area covered by the system.** The moisture level can be easily adjusted by turning the tap.
+Un sistema de riego por goteo es una instalación muy simple. El componente principal aquí es una **línea de goteo** - o, en algunos casos, una **cinta de goteo**. Cualquiera de ellas está conectada a una fuente de agua. El agua fluye a través de un sistema de tuberías dispuestas en el suelo. Gotea por pequeños agujeros y humedece las plantas, de ahí el nombre del método. **Gracias a esta solución, el sistema de raíces siempre tiene acceso al agua, en toda el área cubierta por el sistema**. El nivel de humedad se puede ajustar fácilmente girando el grifo.
 
-## What are the advantages of drip irrigation?
+## ¿Cuáles son las ventajas de la irrigación por goteo?
 
-A drip line is a unique solution and it has many advantages. It can save a lot of time, money and resources. Why should one consider a drip irrigation system in the garden?
+Una línea de goteo es una solución única y tiene muchas ventajas. Puede ahorrar mucho tiempo, dinero y recursos. ¿Por qué se debería considerar un sistema de riego por goteo en el jardín?
 
 {:.list.list-positive}
 
-* **Drip irrigation means saving water.** With the traditional sprinkling method, water is distributed to relatively random spots. The plants are moisturized, however some of the water doesn't get where it's supposed to. This leads, as it has been already mentioned, to waste. Drip watering system provides water precisely where the plant's root system is.
-* **It's a system that requires minimal attention.** After a drip line is installed, all one needs to do is turn on the water and adjust the pressure level. There is also another option – make the process completely automatic. To do this, a special controlling device is required. It can automatically turn on the water at a particular part of the day, for a given amount of time. The most advanced controllers can even react to changes in weather.
-* **The water distributed to plants is of the highest quality.** A drip irrigation system should be equipped with an appropriate filter. It protects the installation, and the user doesn't have to worry about the plants being damaged by contaminated water.
-* **A micro-irrigation system makes gardening much easier.** It means not only easier watering, but also comfortable plants feeding. A drip line is perfect for distributing a fertiliser. To do this, one only needs to equip it with a special fertiliser injector.
-* **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents a spread of fungi and mould, which occurs quite often when plants are sprinkled with water from above. A drip line also eliminates the problem of sunburnt leaves.
-* **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system supports a better plant care and independence from the weather conditions. There is no need to worry that a drought will destroy the crops.
+* **La irrigación por goteo significa ahorrar agua.** Con el método tradicional de riego por goteo, el agua se distribuye en puntos relativamente aleatorios. Las plantas se humedecen, sin embargo, parte del agua no llega a donde se supone que debe llegar. Esto lleva, como ya se ha mencionado, a un desperdicio. El sistema de riego por goteo proporciona agua precisamente donde está el sistema de raíces de la planta.
+* **Es un sistema que requiere una atención mínima**. Después de que se instala una línea de goteo, todo lo que se necesita hacer es encender el agua y ajustar el nivel de presión. También hay otra opción: hacer el proceso completamente automático. Para ello, se requiere un dispositivo de control especial. Puede abrir el agua automáticamente en una parte del día, durante un tiempo determinado. Los controladores más avanzados pueden incluso reaccionar a los cambios en el clima.
+* **El agua distribuida a las plantas es de la más alta calidad.** Un sistema de riego por goteo debe estar equipado con un filtro apropiado. Protege la instalación, y el usuario no tiene que preocuparse de que las plantas se dañen por el agua contaminada.
+* **Un sistema de micro-irrigación hace que la jardinería sea mucho más fácil.** Significa no sólo un riego más fácil, sino también una cómoda alimentación de las plantas. Una línea de goteo es perfecta para distribuir un fertilizante. Para ello, sólo hay que equiparla con un inyector de fertilizante especial.
+* **Un sistema de riego por goteo significa un menor riesgo de enfermedades de las plantas.** El agua se distribuye directamente en el suelo, de modo que no tiene contacto con las partes superficiales de las plantas. Evita la propagación de hongos y moho, lo que ocurre bastante a menudo cuando las plantas son rociadas con agua desde arriba. Una línea de goteo también elimina el problema de las hojas quemadas por el sol.
+* **Este sistema podría contribuir a una mejor cosecha de vegetales, frutas y hierbas.** Un sistema de riego por goteo apoya un mejor cuidado de las plantas y la independencia de las condiciones climáticas. No hay necesidad de preocuparse de que una sequía destruya los cultivos.
 
 ![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
 
-## Where can one use a drip irrigation system?
+## ¿Dónde se puede usar un sistema de riego por goteo?
 
-Because drip lines can cover quite large areas, it's a **recommended system for croplands**. It's perfect for watering plants like strawberries, blueberries and fruit trees. The installation gives you full control over the amount of water transported to a plant. Thanks to this there is no threat of overwatering, which could cause decay of the plants. It's an important aspect that impacts the quality of harvest.
+Debido a que las líneas de goteo pueden cubrir áreas bastante grandes, es un sistema **recomendado para las tierras de cultivo**. Es perfecto para regar plantas como fresas, arándanos y árboles frutales. La instalación le da un control total sobre la cantidad de agua transportada a una planta. Gracias a esto no hay amenaza de riego excesivo, que podría causar la descomposición de las plantas. Es un aspecto importante que afecta a la calidad de la cosecha.
 
-Drip irrigation is also an ideal system for private gardens. **A drip line can easily water flowerbeds, rock gardens and hedges.** It's also a good solution for potted plants. Interestingly, drip systems are becoming quite popular among balconies and patios.
+El riego por goteo es también un sistema ideal para los jardines privados. **Una línea de goteo puede regar fácilmente los parterres de flores, los jardines de rocas y los setos.** También es una buena solución para las plantas en maceta. Curiosamente, los sistemas de goteo se están volviendo muy populares entre los balcones y patios.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-A drip irrigation system is unrecommended for lawns. In this case it is rather advised to use a standard garden hose or sprinklers.
+Un sistema de riego por goteo no es recomendable para el césped. En este caso se aconseja más bien utilizar una manguera de jardín estándar o aspersores.
 
-## Are there any disadvantages of drip irrigation?
+## ¿Hay alguna desventaja en el riego por goteo?
 
-Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used mainly for perennial plants. A drip line, like every water installation, is susceptible to dirt. It might cause clogging. **Each element of the system should be maintained regularly.** Another problem is the difficulty to adjust the intensity of watering for certain plants. It can be solved by using a splitter to create several independent drip lines.
+A pesar de los innegables beneficios de un sistema de riego por goteo, también hay que conocer sus desventajas. Es un sistema que no puede ser realmente movido, por lo tanto debe ser usado principalmente para plantas perennes. Una línea de goteo, como toda instalación de agua, es susceptible a la suciedad. Puede causar atascos. **Cada elemento del sistema debe ser mantenido regularmente**. Otro problema es la dificultad de ajustar la intensidad del riego para ciertas plantas. Puede ser resuelto usando un divisor para crear varias líneas de goteo independientes.
 
 ![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
 
-## Drip watering system – what elements are needed to create an installation?
+## Sistema de riego por goteo. ¿Qué elementos se necesitan para crear una instalación?
 
-Drip irrigation is not a complicated system, and it's not difficult to install. Before doing that, one should equip themselves with all crucial components:
+El riego por goteo no es un sistema complicado, y no es difícil de instalar. Antes de hacerlo, uno debe equiparse con todos los componentes cruciales:
 
 {:.list.list-positive}
 
-* **Drip line** – a tube or a special tape used for watering. It's an element that can be placed directly on the ground, or it can be covered with soil.
-* **Emitters** – they are attached to the drip line and placed right by the plant.
-* **Water filter** – an essential part of a micro-irrigation system. It removes any water contamination and prevents the system failures.
-* **Additional components** – depending on the particular type of a drip irrigation system, one can use stakes for holding the drip lines and emitters as well as band clips, connectors and splitters.
-* **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
+* **Línea de goteo** - un tubo o una cinta especial usada para regar. Es un elemento que puede ser colocado directamente en el suelo, o puede ser cubierto con tierra.
+* **Emisores** - están unidos a la línea de goteo y se colocan justo al lado de la planta.
+* **Filtro de agua** - una parte esencial de un sistema de micro-riego. Elimina cualquier contaminación del agua y previene los fallos del sistema.
+* **Componentes adicionales** - dependiendo del tipo particular de un sistema de riego por goteo, se pueden utilizar estacas para sujetar las líneas de goteo y los emisores, así como clips de banda, conectores y divisores.
+* **Controlador de riego** - aunque es un elemento opcional, es una inversión muy recomendada. Permite el control y la automatización total del proceso.
 
-### A drip line – which is better: tubes or tapes?
+### Una línea de goteo, que es mejor: ¿tubos o cintas?
 
-Construction of a drip irrigation system involves making the decision on what to use for water distribution. There are several options available on the market. **The most popular ones are a drip hose and a drip tape.** Which is the better one? It mostly depends on what plants you are going to water and on your possibilities.
-
-{:.distinction.distinction-info.distinction-positive}
-
-A drip tape is typically used for small vegetable and fruit crops, flower beds and potted plants. A drip irrigation that uses a system of tubes is perfect for watering hedges, smaller trees and orchards. For the last one, it is advised to combine the drip irrigation with additional water distribution points – sprinklers.
-
-## Drip irrigation system installation – how to do it yourself?
-
-There are many companies offering the installation of drip lines. It's useful if a drip irrigation system is going to cover a widespread area, such as a large cropland. **However, if you want to install a small, uncomplicated micro-irrigation system in your garden, consider doing it yourself.** It's not very difficult.
-
-Depending on the line you choose, place a hose or a tape on the ground. Usually, it is held by a set of special stakes. **Some systems can be buried underground**. Arrange the lines so that they lay right by the plants. The next step involves installing the emitters (if they are included in the system). Lastly, connect the drip line with a water source. If needed, you can also split the main line using several tubes.
-
-The simplest drip irrigation systems are controlled by simply turning the tap on or off. **Manufacturers also offer special irrigation controllers.** Using them, one can plan watering for a particular day and hour. Thanks to this solution, a drip irrigation can run by itself, not requiring any special attention.
-
-## Drip irrigation system – estimated costs
-
-Are you wondering how expensive a drip irrigation system is? As most installations of this type, the price depends on individual factors. One should estimate the area that is going to be covered by the system. This aspect dictates the number of drip lines that should be installed. **The price obviously depends also on the manufacturer, therefore it is advised to compare the quality and value of available brands.**
+La construcción de un sistema de riego por goteo implica tomar la decisión de qué usar para la distribución del agua. Hay varias opciones disponibles en el mercado. **Las más populares son una manguera de goteo y una cinta de goteo**. ¿Cuál es la mejor? Depende en gran medida de las plantas que vayas a regar y de tus posibilidades.
 
 {:.distinction.distinction-info.distinction-positive}
 
-The less complicated the installation is, the less it costs. For this reason one should review all solutions that could be used. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
+La cinta de goteo se utiliza normalmente para pequeños cultivos de verduras y frutas, parterres de flores y plantas en maceta. Un riego por goteo que utiliza un sistema de tubos es perfecto para regar setos, árboles más pequeños y huertos. Para este último, se aconseja combinar el riego por goteo con puntos de distribución de agua adicionales - aspersores.
+
+## Instalación del sistema de riego por goteo, ¿cómo hacerlo uno mismo?
+
+Hay muchas compañías que ofrecen la instalación de líneas de goteo. Es útil si un sistema de riego por goteo va a cubrir un área extensa, como una gran tierra de cultivo. **Sin embargo, si quieres instalar un pequeño y sencillo sistema de micro riego en tu jardín, considera hacerlo tú mismo.** No es muy difícil.
+
+Según la línea que elija, coloque una manguera o una cinta en el suelo. Normalmente, se sujeta con un conjunto de estacas especiales. **Algunos sistemas pueden ser enterrados bajo tierra.** Disponga las líneas de manera que queden justo al lado de las plantas. El siguiente paso consiste en instalar los emisores (si están incluidos en el sistema). Por último, conectar la línea de goteo con una fuente de agua. Si es necesario, también puedes dividir la línea principal usando varios tubos.
+
+Los sistemas de irrigación por goteo más simples se controlan simplemente abriendo o cerrando el grifo. **Los fabricantes también ofrecen controladores de irrigación especiales.** Usándolos, uno puede planear el riego para un día y hora en particular. Gracias a esta solución, un riego por goteo puede funcionar por sí mismo, sin requerir ninguna atención especial.
+
+## Sistema de riego por goteo - costos estimados
+
+¿Te preguntas lo caro que es un sistema de irrigación por goteo? Como la mayoría de las instalaciones de este tipo, el precio depende de factores individuales. Uno debe estimar el área que va a ser cubierta por el sistema. Este aspecto dicta el número de líneas de goteo que deben ser instaladas. **El precio obviamente depende también del fabricante, por lo que se aconseja comparar la calidad y el valor de las marcas disponibles.**
+
+{:.distinction.distinction-info.distinction-positive}
+
+Cuanto menos complicada es la instalación, menos cuesta. Por esta razón uno debería revisar todas las soluciones que podrían ser utilizadas. Los diseños pequeños pueden seguramente renunciar a los controladores electrónicos, a menos que la conveniencia sea la prioridad. Uno también puede disminuir los costos eligiendo instalar el sistema por sí mismo.
 
 ![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
 
-## What else should one remember when installing drip irrigation?
+## ¿Qué más se debe recordar cuando se instala el riego por goteo?
 
-Because all gardens are different, one should keep every detail in mind when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
+Debido a que todos los jardines son diferentes, uno debe tener en cuenta cada detalle al elegir un sistema de riego por goteo: desde la forma del terreno hasta el color de la línea de goteo. De esta manera se puede crear un sistema que se **ajuste a todas las necesidades y que sirva durante años**.
 
 {:.list.list-positive}
 
-* Is your garden situated on a hill or an uneven terrain? It doesn't mean that drip irrigation is not for you. Just use a **pressure regulator** – a device that will allow the water to flow upwards.
-* Remember **the emitters arrangement** depends mostly on the type of soil your plants grow in. The more loose the ground is, the more emitters you need. If the soil is quite dense, place them more sparsely to prevent water retention.
-* What hose colour to choose? **The most popular drip lines are available in neutral tones: green, black or brown.** This way one can easily mask the tube, increasing the aesthetics of the garden. You could also choose stronger colours and expose the hose for decorative purposes.
-* What do to with the drip lines after the season? **The equipment should be put away for winter** to avoid damage from the weather conditions.
-* You have expanded the crops area and now the drip irrigation system covers it only partially? **You can always extend the drip lines**. To do this, use special connectors.
+* ¿Su jardín está situado en una colina o en un terreno irregular? No significa que la irrigación por goteo no sea para ti. Sólo usa un **regulador de presión**, un dispositivo que permita que el agua fluya hacia arriba.
+* Recuerde que la **disposición de los emisores** depende principalmente del tipo de suelo en el que crecen sus plantas. Cuanto más suelto sea el suelo, más emisores necesitarás. Si el suelo es bastante denso, colóquelos más escasos para evitar la retención de agua.
+* ¿Qué color de manguera elegir? **Las líneas de goteo más populares están disponibles en tonos neutros: verde, negro o marrón**. De esta manera se puede enmascarar fácilmente el tubo, aumentando la estética del jardín. También se pueden elegir colores más fuertes y exponer la manguera con fines decorativos.
+* ¿Qué hacer con las líneas de goteo después de la temporada? **El equipo debe ser guardado para el invierno** para evitar daños por las condiciones climáticas.
+* ¿Has ampliado la zona de cultivo y ahora el sistema de riego por goteo la cubre sólo parcialmente? **Siempre puedes extender las líneas de goteo.** Para hacerlo, usa conectores especiales.
 
-**A drip irrigation system is a perfect solution for every garden.** Thanks to it you can easily and effortlessly take care of your plants. A drip line means not only time and money saved, but also a beautiful and healthy garden. It's a universal system that can be used both for professional farming as well as for private gardens, balconies and patios.
+**Un sistema de irrigación por goteo es una solución perfecta para cada jardín.** Gracias a él puedes cuidar de tus plantas fácilmente y sin esfuerzo. Una línea de goteo significa no sólo tiempo y dinero ahorrado, sino también un hermoso y saludable jardín. Es un sistema universal que puede ser usado tanto para la agricultura profesional como para jardines, balcones y patios privados.
