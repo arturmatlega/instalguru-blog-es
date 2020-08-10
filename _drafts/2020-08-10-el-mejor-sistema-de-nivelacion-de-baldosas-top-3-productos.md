@@ -80,7 +80,7 @@ Tengan en cuenta que no importa qué tipo de azulejos usen. Se pueden hacer de e
 * granito,
 * piedra.
 
-![](/uploads/system-poziomowania-plytek-top3.jpg)
+![¿Dónde puedes usar un sistema de nivelación de azulejos?](/uploads/system-poziomowania-plytek-top3.jpg "¿Dónde puedes usar un sistema de nivelación de azulejos?")
 
 ## ¿Vale la pena un sistema de nivelación de azulejos? Ventajas de la solución
 
