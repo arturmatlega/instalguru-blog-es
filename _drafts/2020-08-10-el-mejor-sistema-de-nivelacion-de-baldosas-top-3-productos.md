@@ -51,93 +51,93 @@ hreflangs:
   link: ''
 
 ---
-## What is a tile leveling system?
+## ¿Qué es un sistema de nivelación de Baldosas?
 
-A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or the wall. They should be placed between adjacent tiles.
+Un sistema de nivelación de azulejos es un **conjunto de elementos gracias a los cuales es mucho más fácil colocar y rejuntar los azulejos**. Contiene **clips y cuñas** de material plástico. Se pueden utilizar para nivelar los azulejos en el suelo o la pared. Deben colocarse entre baldosas adyacentes.
 
-**Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
+**El uso de un moderno sistema de nivelación de baldosas es una solución perfecta tanto para los profesionales como para los usuarios sin experiencia**. Gracias a este método todo el proceso es mucho más fácil y, lo que es más importante, más rápido. Se estima que un sistema de nivelación de baldosas puede **ahorrar hasta un 50% de tiempo** en comparación con la colocación de baldosas con espaciadores tradicionales.
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+![¿Qué es un sistema de nivelación de Baldosas?](/uploads/system-poziomowania-plytek-szczypce.jpg "¿Qué es un sistema de nivelación de Baldosas?")
 
-## How does a tile leveling system work?
+## ¿Cómo funciona un sistema de nivelación de azulejos?
 
-A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
+Un sistema estándar de nivelación de azulejos contiene clips y **cuñas de forma especial que tienen baches característicos en la superficie**. Es importante que uno use ambos elementos para lograr los resultados esperados.
 
-The equipment should be used when setting the tiles on the surface. Before doing that, one needs putting a clip between two adjacent tiles. Then, a wedge should be stuck in the clip. It presses **the tile to the floor or the wall**, which results in leveling the surface.
+El equipo debe ser usado cuando se colocan las baldosas en la superficie. Antes de hacerlo, hay que poner un clip entre dos baldosas adyacentes. Luego, una cuña debe ser pegada en el clip. Presiona l**a baldosa contra el suelo o la pared**, lo que resulta en la nivelación de la superficie.
 
-The bumps or carvings on the wedges are very important. They prevent the element from moving and stabilize the tiles. **It's definitely much more efficient solution than placing cross spacers which don't hold the tiles at all.** What's more, a tile leveling system is far easier to use. There is no need to use any additional equipment like a level - which might make the process much longer and more complicated.
+Los golpes o tallados en las cuñas son muy importantes. Impiden que el elemento se mueva y estabilizan las baldosas. **Definitivamente es una solución mucho más eficiente que colocar espaciadores cruzados que no sostienen los azulejos en absoluto.** Lo que es más, un sistema de nivelación de baldosas es mucho más fácil de usar. No hay necesidad de usar ningún equipo adicional como un nivel, lo que podría hacer el proceso mucho más largo y complicado.
 
-## Where can you use a tile leveling system?
+## ¿Dónde puedes usar un sistema de nivelación de azulejos?
 
-Although many believe that a tile leveling system can be used only for floors, in reality **it is  a highly universal solution**. It means you can use it for tiling walls, or even stairs as well.
+Aunque muchos creen que un sistema de nivelación de baldosas puede ser usado sólo para los pisos, **en realidad es una solución altamente universal**. Significa que puedes usarlo para alicatar paredes, o incluso escaleras también.
 
-Note that it doesn't matter what kind of tiles you use. They can be made of:
+Tengan en cuenta que no importa qué tipo de azulejos usen. Se pueden hacer de ellas:
 
 {:.list.list-positive}
 
-* ceramic,
+* cerámica,
 * grés,
-* granite,
-* stone.
+* granito,
+* piedra.
 
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+![](/uploads/system-poziomowania-plytek-top3.jpg)
 
-## Is a tile leveling system worth it? Advantages of the solution
+## ¿Vale la pena un sistema de nivelación de azulejos? Ventajas de la solución
 
-**A tile leveling system is a universal solution** - you can use it for various types of surfaces.  It can be used both inside, as well as on the areas located outside the building.
+**Un sistema de nivelación de azulejos es una solución universal,** se puede usar para varios tipos de superficies.  Puede ser usado tanto en el interior como en las áreas ubicadas en el exterior del edificio.
 
-Using this type of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+Usando este tipo de equipo, **puedes colocar baldosas de cualquier tipo** - sin importar el tamaño y el grosor. En cualquier caso, puedes obtener una superficie perfectamente uniforme.
 
-Leveled tiles are only one of the advantages. Additionally, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles means exactly the same width between each of them. Thanks to this, the grouting looks exceptionally elegant.
+Las baldosas niveladas son sólo una de las ventajas. Además, también tienes la posibilidad de obtener un sellado perfectamente uniforme en toda la superficie. Baldosas uniformes significa exactamente el mismo ancho entre cada una de ellas. Gracias a esto, el rejuntado se ve excepcionalmente elegante.
 
-## TOP 3 - the most popular tile leveling systems
+## TOP 3 - los sistemas de nivelación de baldosas más populares
 
-Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct. However, one can find various sets that slightly differ in terms of their usage - which results from the elements' different construction. There are also systems that have a completely different structure.
+La mayoría de los usuarios asocian un sistema de nivelación de azulejos con un conjunto de clips y cuñas. Es, por supuesto, correcto. Sin embargo, uno puede encontrar varios juegos que difieren ligeramente en términos de su uso, lo que resulta de la diferente construcción de los elementos. También hay sistemas que tienen una estructura completamente diferente.
 
-**We present TOP 3 products which are most popular among specialists and rated as the best.**
+**Presentamos los 3 productos más populares entre los especialistas y calificados como los mejores.**
 
-### A tile leveling system with anchor-shaped clips
+### Un sistema de nivelación de azulejos con clips en forma de ancla
 
-It's the most popular tile leveling system - both among experts and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T."**
+Es el sistema de nivelación de azulejos más popular, tanto entre los expertos como entre los aficionados al bricolaje que quieren colocar los azulejos por sí mismos. Los **clips tienen un diseño especial - se asemejan a un ancla o a una "T" invertida.**
 
-The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+Las terminaciones ligeramente levantadas a ambos lados de un clip se colocan debajo de las baldosas. Luego, se coloca una cuña en el clip. En este tipo de conjunto, la cuña está abierta en un lado. Rodea el tallo del clip. **Después de ejercer presión, se bloquea por los golpes en su superficie.**
 
-It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+Es común que un juego así también contenga alicates especiales. Gracias a ellas, el **ajuste del sistema y sus elementos es mucho más rápido** y no requiere poner ninguna fuerza en él.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+![Un sistema de nivelación de azulejos con clips en forma de ancla](/uploads/system_poziomowania_ranking.jpg "Un sistema de nivelación de azulejos con clips en forma de ancla")
 
-### A tile leveling system with standard clips and wedges
+### Un sistema de nivelación de azulejos con clips y cuñas estándar
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
+Una de las opciones más utilizadas es un sistema de nivelación de azulejos que utiliza los **clásicos clips y cuñas**. En este caso, un clip se asemeja a una ventana con una base en la parte inferior. La ventana es simplemente el espacio para una cuña. Es diferente al sistema anterior - la cuña debe ser deslizada en el medio del clip. Gracias a los característicos baches se puede ejercer la máxima presión sobre la cuña y así nivelar perfectamente las baldosas.
 
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
+![Un sistema de nivelación de azulejos con clips y cuñas estándar](/uploads/system_poziomowania_ranking_2.jpg "Un sistema de nivelación de azulejos con clips y cuñas estándar")
 
-### A reusable tile leveling system
+### Un sistema de nivelación de azulejos reutilizable
 
-Manufacturers also offer a reusable tile leveling system, which uses twisted elements. They are **quite different the classic ones**. The differences lie both is the construction and the usage.
+Los fabricantes también ofrecen un sistema de nivelación de azulejos reutilizable, que utiliza elementos retorcidos. Son bastante **diferentes a los clásicos**. Las diferencias radican tanto en la construcción como en el uso.
 
-This type of a tile leveling system uses two elements as well. The main part is a clip with a large thread and a metal element shaped like a "T". The other element is a cap, which secures a tile.
-
-{:.distinction.distinction-info.distinction-negative}
-
-It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
-
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
-
-## A tile leveling system - single-use or reusable?
-
-A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+Este tipo de sistema de nivelación de baldosas utiliza dos elementos también. La parte principal es un clip con un gran hilo y un elemento metálico en forma de "T". El otro elemento es una tapa, que asegura una baldosa.
 
 {:.distinction.distinction-info.distinction-negative}
 
-It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurrence - you might decide to buy new wedges.
+No es una solución totalmente perfecta. En este caso hay que usar espaciadores cruzados de azulejos adicionales, lo que lleva más tiempo y puede ser difícil para los usuarios inexpertos. Además, después de nivelar los azulejos, los clips tienen que ser retirados después de unas horas. Podría arruinar el nivel de los azulejos.
 
-**A great advantage of a reusable tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be quite problematic.
+![Un sistema de nivelación de azulejos reutilizable](/uploads/system_poziomowania_ranking_3.jpg "Un sistema de nivelación de azulejos reutilizable")
 
-## How to choose a tile leveling system?
+## ¿Un sistema de nivelación de azulejos, de un solo uso o reutilizable?
 
-Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+Un sistema de nivelación de azulejos que utiliza clips y cuñas podría ser parcialmente reutilizado. Los clips son elementos de un solo uso. Sin embargo, puede **reutilizar las cuñas**. Es una solución común entre los expertos, que pueden ahorrar mucho comprando sólo los clips que faltan.
 
-There is also another aspect of great significance for systems with clips and wedges - whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+{:.distinction.distinction-info.distinction-negative}
 
-The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
+Es importante controlar el estado de las cuñas. Después de varios usos pueden desgastarse - se puede juzgar por el estado de los baches que sostienen la cuña en un clip. Si usted notó tal ocurrencia - podría decidir comprar nuevas cuñas.
+
+**Una gran ventaja de un sistema de nivelación de baldosas reutilizable es definitivamente el hecho de que puede ser usado muchas veces, lo que puede ahorrar algo de dinero.** Sin embargo, muchos usuarios afirman que su uso es mucho menos conveniente. La necesidad de usar espaciadores cruzados es una gran desventaja. No sólo hace el trabajo más largo para los expertos, sino que para los usuarios inexpertos también puede ser bastante problemático.
+
+## ¿Cómo elegir un sistema de nivelación de baldosas?
+
+La calidad es definitivamente el aspecto más importante a la hora de elegir un sistema de nivelación de baldosas. **El material de los elementos es bastante significativo.** Un material duradero y resistente a los daños utilizado para la producción garantiza la estabilidad de las baldosas, por lo tanto es un asunto crucial.
+
+Hay también otro aspecto de gran importancia para los sistemas con clips y cuñas, a saber, si **el fabricante ofrece la posibilidad de comprar cada uno de esos elementos más tarde**, por separado. Es crucial, especialmente para los profesionales que usan las mismas cuñas muchas veces.
+
+El precio de un conjunto es, por supuesto, también muy importante. Calcule cuántos elementos puede comprar por un precio determinado y compruebe si el fabricante ofrece juegos con equipo adicional como pinzas para prensar cuñas a las baldosas. Es una buena manera de captar grandes ofertas que vale la pena invertir.
