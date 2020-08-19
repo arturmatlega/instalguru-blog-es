@@ -5,6 +5,8 @@ lang: "es"
 photo: "/assets/img/default.jpg"
 scvarificationnumber: "Uetc2XlwFqqAAdxju7UCBuawd8HImTqeRkHqihCvlrs" # numer identyfikacjyny google search console
 analyticsvarificationnumber: "UA-145248341-9" # numer identyfikacjyny google analyticks
+gtagmanagervarificationnumber:
+optimizevarificationnumber:
 
 markdown: kramdown
 
