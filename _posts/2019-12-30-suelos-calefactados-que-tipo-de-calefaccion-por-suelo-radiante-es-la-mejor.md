@@ -4,6 +4,15 @@ seo_title: Suelos calefactados. ¿Qué tipo de calefacción por suelo radiante e
   mejor?
 seo_description: La calefacción del suelo podría ser un sistema muy ventajoso. No
   es de extrañar que los suelos calefactados sean cada vez más populares.
+main_keywords:
+  - pisos con calefacción
+  - en la calefacción del suelo
+  - calefacción del suelo...
+  - calefacción por suelo radiante
+  - calefacción eléctrica del suelo
+  - suelo calefactado
+  - sistemas de calefacción por suelo radiante
+  - sistemas de calefacción del suelo
 date: 2019-12-30T11:00:00.000+00:00
 update_date: 2019-12-30T11:00:00.000+00:00
 title: Suelos calefactados. ¿Qué tipo de calefacción por suelo radiante es la mejor?

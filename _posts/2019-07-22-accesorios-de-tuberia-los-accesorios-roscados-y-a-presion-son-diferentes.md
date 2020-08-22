@@ -3,6 +3,13 @@ layout: post
 seo_title: 'Accesorios de tubería: ¿los accesorios roscados y a presión son diferentes?'
 seo_description: "¿Está planeando una renovación de su casa? \U0001F3E0 \U0001F449
   Aprenda la diferencia entre accesorios roscados y a presión"
+main_keywords:
+  - accesorios de pex
+  - accesorios de tubería
+  - accesorios de tubería de pvc
+  - accesorios hidráulicos
+  - accesorios de cobre
+  - accesorios de tubería pex
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Accesorios de tubería: ¿los accesorios roscados y a presión son diferentes?'

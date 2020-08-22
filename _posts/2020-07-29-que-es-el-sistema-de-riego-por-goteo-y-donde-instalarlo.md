@@ -4,6 +4,16 @@ seo_title: "¿Qué es el sistema de riego por goteo y dónde instalarlo?"
 seo_description: "¿Te preguntas cómo cuidar tu jardín? \U0001F333 La irrigación por
   goteo es un sistema moderno de riego de plantas. \U0001F449 Comprueba si puedes
   usarlo y cómo instalarlo."
+main_keywords:
+  - irrigación por goteo
+  - sistema de irrigación por goteo
+  - sistema de riego por goteo 
+  - sistema de riego por goteo para el invernadero
+  - sistema de micro irrigación
+  - sistemas de irrigación de jardines
+  - fácil irrigación del jardín
+  - alimentador de goteo de plantas
+  - sistema de riego de ollas
 date: 2020-07-28 22:00:00 +0000
 update_date: 2020-07-28 22:00:00 +0000
 title: "¿Cómo funciona el sistema de riego por goteo? ¿Dónde se puede utilizar?"

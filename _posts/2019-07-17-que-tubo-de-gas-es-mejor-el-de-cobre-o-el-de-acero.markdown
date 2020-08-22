@@ -4,6 +4,10 @@ seo_title: Instalación de la línea de gas. ¿Qué tubería es mejor, la de cob
   de acero?
 seo_description: "¿Planea instalar accesorios de gas en su casa? ✔️ ¿Qué tipo de tubería
   es mejor para usar en sus tuberías - cobre \U0001F19A acero? "
+main_keywords:
+  - tuberías
+  - instalación de la línea de gas
+  - materiales de tubería
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: "¿Qué tubo de gas es mejor, el de cobre o el de acero?"

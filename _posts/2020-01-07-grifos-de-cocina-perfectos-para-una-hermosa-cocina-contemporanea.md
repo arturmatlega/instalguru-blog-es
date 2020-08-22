@@ -3,6 +3,15 @@ layout: post
 seo_title: Grifos de cocina perfectos para una hermosa cocina contemporánea
 seo_description: "¿Planeando una renovación de la cocina? Vea los productos populares
   y encuentre el mejor grifo para la cocina contemporánea."
+main_keywords:
+  - grifos de cocina
+  - grifo de la cocina
+  - fregadero de la cocina
+  - ideas para la cocina
+  - grifo del fregadero
+  - accesorios de cocina
+  - grifo del fregadero de la cocina
+  - los artefactos de luz de la cocina
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-01-07T11:00:00.000+00:00
 title: Grifos de cocina perfectos para una hermosa cocina contemporánea

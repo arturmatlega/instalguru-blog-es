@@ -3,6 +3,12 @@ layout: post
 seo_title: Accesorios de baño. ¿Cómo instalar los muebles de baño?
 seo_description: El baño, la ducha, el lavabo y el inodoro son los elementos más importantes
   de cada baño. ¿Cómo instalar correctamente los accesorios del baño?
+main_keywords:
+  - accesorios de baño
+  - sanitaria
+  - muebles de baño
+  - accesorios sanitarios
+  - sanitarios
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Instalación de accesorios de baño

@@ -4,6 +4,9 @@ seo_title: "¿Cubierta de la tubería, boxeo de la tubería? ¿Cómo ocultar las
   expuestas?"
 seo_description: Si sus tuberías han quedado expuestas, tal vez quiera ocultarlas.
   ¿Se pregunta cuál es la mejor cubierta para las tuberías?
+main_keywords:
+  - cubierta de la tubería
+  - boxeo en tubería
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Cubrir las tuberías - ¿cómo ocultar las tuberías expuestas?

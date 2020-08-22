@@ -3,6 +3,13 @@ layout: post
 seo_title: "¿Cómo eliminar el olor del baño o del fregadero de la cocina?"
 seo_description: Si te preguntas qué olor proviene del fregadero de tu cocina, no
   te preocupes. Afortunadamente hay métodos para eliminar el olor.
+main_keywords:
+  - fregadero de la cocina
+  - lavabo del baño
+  - El fregadero de servicio...
+  - Olor
+  - el olor
+  - lavabo
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: "¿Cómo deshacerse del mal olor de tu fregadero?"

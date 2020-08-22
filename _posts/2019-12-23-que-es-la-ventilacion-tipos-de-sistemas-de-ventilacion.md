@@ -3,6 +3,16 @@ layout: post
 seo_title: Ventilación - ¿cuáles son los tipos de sistemas de ventilación?
 seo_description: La ventilación es uno de los elementos más importantes del hogar.
   ¿Cómo construir un buen sistema de ventilación que haga que su casa sea fresca?
+main_keywords:
+  - ventilación
+  - casa fresca...
+  - ventilar
+  - ventilado
+  - sistema de ventilación
+  - ventiladores
+  - qué es la ventilación
+  - la ventilación natural...
+  - ventilador de casa
 date: 2019-12-23T11:00:00.000+00:00
 update_date: 2019-12-23T11:00:00.000+00:00
 title: "¿Qué es la ventilación? Tipos de sistemas de ventilación"

@@ -3,6 +3,15 @@ layout: post
 seo_title: Eligiendo la tapa del inodoro. Los asuntos más importantes
 seo_description: Elegir el asiento del inodoro correcto puede no ser tan simple como
   parece. Hay varios parámetros a los que debes prestar atención.
+main_keywords:
+  - asiento del inodoro
+  - Asiento de inodoro de bidé
+  - el elevador del asiento del inodoro
+  - asiento de inodoro elevado
+  - fundas para el asiento del inodoro
+  - tamaños de los asientos de los inodoros
+  - el mejor asiento de baño
+  - cerrar lentamente el asiento del inodoro
 date: 2020-01-09T11:00:00.000+00:00
 update_date: 2020-01-09T11:00:00.000+00:00
 title: "¿Cómo elegir la tapa del inodoro correcta?"
