@@ -4,7 +4,7 @@ page404-2: No se encontró la página solicitada.
 page404-3: Volver a la página de inicio
 lastPosts: Artículos recientes
 allPosts: Mostrar todos los mensajes
-allRights: "© 2020 InstalGuru. Todos los derechos reservados."
+allRights: "© 2020 InstalGuru.  Todos los derechos reservados."
 polish: Polaco
 english: Inglés
 german: Alemán
@@ -16,5 +16,5 @@ author: Autor
 post_publication: Fecha de publicación
 post_update: Fecha de actualización
 buynow: Compre ahora
-table_of_contents: "Tabla de contenido"
-random_links_title: "Quizás también te guste"
+table_of_contents: Tabla de contenido
+random_links_title: Quizás también te guste
