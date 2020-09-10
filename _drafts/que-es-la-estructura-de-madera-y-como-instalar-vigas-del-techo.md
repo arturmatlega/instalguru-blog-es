@@ -29,79 +29,79 @@ hreflangs:
   link: https://instalguru.co.uk/blog/what-is-timber-framing-and-how-to-install-roof-trusses.html
 
 ---
-## What are roof trusses?
+## ¿Qué son las cerchas del techo?
 
-Wood trusses are nothing else than the upper section of a building. They build a **strong, wooden construction** which supports the roofing. It directly impacts the shape of the roof, as well as its general functioning. Timber framing consists of many elements. The most important ones are:
-
-{:.list.list-positive}
-
-* **Rafters** - sloping beams supporting the roof coating. Their cross-section is distinct and they are placed approximately 1 meter apart.
-* **Purlins** - binding rafters. They support the main rafters and relocate the pressure onto the other load-bearing components.
-* **Wall plate** - a purlin placed directly on the building's wall. Thanks to this, the weight of the roof is carried onto the wall.
-* **Ridge** - the topmost part of the roof.
-* **Posts** - vertical beams holding purlins and transferring the load onto the wall.
-* **Straining beams** - lower horizontal beams connecting the rafters and stabilizing the construction.
-* **Collar beams** - similar to the straining beams, collar beams connect opposite rafters in the upper part of the roof.
-* **Struts** - sloping beams connecting posts and purlins.
-* **Braces** - diagonal ledges installed under the rafters. It helps to stiffen the construction and protect it against the wind.
-
-What elements appear in the timber framing depends mostly on its particular construction. There are many **types of roof trusses**, and the decision is determined by the building's project. It's important to decide whether the attic will be used as a separate room or not.
-
-## Types of roofs - what kinds of roof trusses are the most popular?
-
-There are many types of timber framing available on the market. **The decision on which roof truss to choose should be made at the stage of the building design.** Before picking a particular solution, one should consider factors like the size and shape of the house, one's budget and the aspect of aesthetics. Standard houses typically use a simple truss, a collar beam truss or a queen post truss.
-
-![](/uploads/wiezba-dachowa-budowa-domu.jpg)
-
-### Simple roof truss
-
-Such a construction can be used when the walls of the building are no more than 7 meters apart. **The roof slope should be no more than 45 degrees.** A simple roof truss is one of the most commonly used types of timber framing. It uses normal rafters and purlins which together form a roof truss resting on the building's walls. The rafters are supported only in two spots - on the walls and at the ridge.
-
-There is also a similar scheme that uses only two elements. The rafters are supported only by a wall plate, without the transverse roof beams.
-
-### Collar beam roof truss
-
-A collar beam roof truss is typically used when the walls of the building are wider than 7 meters apart. **This solution is far more versatile than the simple roof truss.** For this reason, it is far more commonly used. Such a construction uses rafters joined at the ridge, wall plates and collar beams which buttress the whole structure. The collar beams should be placed at the right height - the space should be divided into two - from the ridge to the collar beam no more than 2,5 m and from the beam to the wall plate - no more than 4,5 m.
-
-### Queen post roof truss
-
-Such construction is definitely the most popular, due to its versatility. It can be used in pent roofs, gable roofs, as well as very steep constructions. **The maximum space between the walls in such timber framing is 16 meters.** In this case, two types of trusses are contained within such construction. One consists of rafters supported by purlins, posts and straining beams. The secondary roof trusses are supported by wall plates.
-
-## Traditional roof trusses vs. prefabricated timber framing
-
-There are many types of roofs available on the market. The final decision, of course, depends on the span of the building and other individual factors. There is also another issue - whether roof trusses are to be constructed traditionally or whether to buy a **prefabricated structure**.
+Las cerchas de madera no son más que la sección superior de un edificio. Construyen una **fuerte construcción de madera** que soporta el techo. Impacta directamente en la forma del techo, así como en su funcionamiento general. Las cerchas de madera consisten en muchos elementos. Los más importantes son:
 
 {:.list.list-positive}
 
-* **Traditional roof trusses** preparation requires choosing the materials separately. The roof beams should be purchased in a lumbermill, and the roof itself is being constructed on site. Solid wood beams typically reach up to 7 meters. If the project needs longer beams, one should choose glued timber elements along with steel reinforcements.
-* **Prefabricated roof trusses** are definitely more versatile in terms of the size. Because the elements match perfectly, this solution requires far less timber than traditional projects. The installation process is definitely quicker - it's done by the manufacturer's team. In this case the space in the attic is seriously limited, which might be a disadvantage for some.
+* **Vigas** - vigas inclinadas que soportan el revestimiento del techo. Su sección transversal es distinta y están colocadas aproximadamente a un metro de distancia.
+* **Correas** - vigas de unión. Soportan las vigas principales y reubican la presión en los otros componentes de carga.
+* **Placa de pared** - una correa colocada directamente en la pared del edificio. Gracias a esto, el peso del techo es llevado a la pared.
+* **Cumbrera** - la parte superior del techo.
+* Postes - vigas verticales que sostienen las correas y transfieren la carga a la pared.
+* **Vigas de tensión** - vigas horizontales inferiores que conectan las vigas y estabilizan la construcción.
+* **Vigas de collar** - similares a las vigas tensoras, las vigas de collar conectan las vigas opuestas en la parte superior del techo.
+* **Vigas** - vigas inclinadas que conectan los postes y las correas.
+* **Tirantes** - salientes diagonales instalados bajo las vigas. Ayudan a dar rigidez a la construcción y a protegerla contra el viento.
 
-![](/uploads/konstrukcje-dachu.jpg)
+Los elementos que aparecen en la estructura de madera dependen en gran medida de su construcción particular. Hay muchos **tipos de cerchas de techo**, y la decisión está determinada por el proyecto del edificio. Es importante decidir si el ático se utilizará como una habitación separada o no.
 
-## What timber is the best for roof trusses?
+## Tipos de tejados - ¿qué tipos de cerchas de tejado son los más populares?
 
-When making a timber framing, one should use the right type of wood. It should be durable and have the right cross-section. Timber from sawmills and timber depots is specially marked. The material should be chosen in accordance with the project of the building - so pay attention to the **timber strength class**. Check if the purchased timber complies with construction requirements and has the certificates in term of specific parameters.
+Hay muchos tipos de armazones de madera disponibles en el mercado. **La decisión de qué cercha para el techo se debe tomar en la etapa de diseño del edificio**. Antes de elegir una solución particular, uno debe considerar factores como el tamaño y la forma de la casa, el presupuesto y el aspecto de la estética. Las casas estándar suelen utilizar una cercha simple, una cercha de vigas de cuello o una cercha de postes de reina.
 
-The timber class is marked with a letter and number, for instance **C20, D30**. The letter stands for the wood type and the number - for its flexibility.
+![Tipos de tejados - ¿qué tipos de cerchas de tejado son los más populares?](/uploads/wiezba-dachowa-budowa-domu.jpg "Tipos de tejados - ¿qué tipos de cerchas de tejado son los más populares?")
 
-What type of timber is the best? Roof trusses typically use **coniferous wood, e.g. spruce or pine, sometimes larch or fir.** The moisture level of the timber is another important aspect. The material should be well dried - dry wood is 50% more durable than wet. Wet beams might get deformed in time. **The best moisture level is no more than 15%.** The best solution, therefore, is buying dry wood from a trusted place.
+### Una simple cercha de techo
 
-Because wood is particularly vulnerable to damage, it is crucial to secure it. Only then one can be sure that the roof truss lasts for a long time. **Wood for roofing must be impregnated,** so that it's protected against biological degradation, pests and fire. For this reason, the beams are soaked in appropriate products.
+Tal construcción puede ser usada cuando las paredes del edificio no están a más de 7 metros de distancia. **La inclinación del techo no debe ser mayor de 45 grados**. Una simple cercha de techo es uno de los tipos de armazón de madera más utilizados. Utiliza vigas y correas normales que juntas forman una cercha que descansa en las paredes del edificio. Las vigas se apoyan sólo en dos puntos: en las paredes y en la cresta.
 
-## Roof construction - step by step
+También hay un esquema similar que utiliza sólo dos elementos. Las vigas están soportadas sólo por una placa de pared, sin las vigas transversales del techo.
 
-Building roof trusses and timber framing involves joining various construction beams. In addition to the general scheme for combining the wood, connecting elements are equally important. There are many solutions available. Some experts use traditional nails and joints. One can also use pins and screws, as well as metal plates and fittings to connect the beams. **One of the most advanced solutions involves using specially designed wood screws.** The project should specify the exact number of the connectors required.
+### La viga del techo de la viga del cuello
 
-**Roof construction starts by attaching the wall plates.** Then, other elements are installed - depending on the individual project - beams, posts and purlins. The last step involves fixing the rafters. The elements should be positioned at an appropriate distance from each other - one must strictly follow the project.
+Una cercha de techo con vigas de collar se usa típicamente cuando las paredes del edificio tienen una separación de más de 7 metros. **Esta solución es mucho más versátil que la simple cercha de techo**. Por esta razón, se utiliza mucho más comúnmente. Esta construcción utiliza vigas unidas en la cresta, placas de pared y vigas de cuello que refuerzan toda la estructura. Las vigas de collar deben colocarse a la altura correcta - el espacio debe dividirse en dos - desde la cresta hasta la viga de collar no más de 2,5 m y desde la viga hasta la placa de la pared - no más de 4,5 m.
 
-Prefabricated roof trusses are connected with special nail plates. Such roofs are typically assembled by a team from the company selling the timber framing. Sometimes a crane is used. **The installation process usually lasts no more than 3 days.**
+### La viga del techo del poste de la reina
 
-## Roof trusses price
+Esta construcción es definitivamente la más popular, debido a su versatilidad. Se puede usar en techos de penthouse, techos a dos aguas, así como en construcciones muy empinadas. **El espacio máximo entre las paredes en tales marcos de madera es de 16 metros**. En este caso, dos tipos de cerchas están contenidas dentro de tal construcción. Una consiste en vigas sostenidas por correas, postes y vigas tensoras. Las cerchas secundarias del techo están soportadas por placas de pared.
 
-Roof trusses are elements whose cost might vary depending on several factors. The **size of the building** is the most important one, but one should also consider the design of the roof and how complicated the construction is.
+## Las cerchas tradicionales de los tejados frente a los marcos de madera prefabricada
 
-The cheapest timber framing type is a gable roof. In this case, the simplest roof trusses with rafters, as well as collar beam trusses are used. If the opposite walls of the building are more than 11 meters apart, one should use a more expensive purlin truss.
+Hay muchos tipos de tejados disponibles en el mercado. La decisión final, por supuesto, depende de la envergadura del edificio y otros factores individuales. También hay otra cuestión: si las cerchas del techo se van a construir tradicionalmente o si se compra una **estructura prefabricada.**
 
-In case of hip and multi-pitched roofs, roof trusses are more complicated, and therefore, more difficult to construct. More elements are required, and the costs of installation are higher.
+{:.list.list-positive}
 
-**If your house is not very large, consider buying a prefabricated roof truss.** In comparison with traditional roof trusses, it is often a far cheaper solution.
+* La preparación **tradicional de las cerchas de techo** requiere elegir los materiales por separado. Las vigas del techo deben comprarse en un molino de madera, y el techo mismo se construye en el lugar. Las vigas de madera maciza suelen alcanzar hasta 7 metros. Si el proyecto necesita vigas más largas, se deben elegir elementos de madera pegados junto con refuerzos de acero.
+* **Las cerchas prefabricadas del techo** son definitivamente más versátiles en términos de tamaño. Debido a que los elementos encajan perfectamente, esta solución requiere mucha menos madera que los proyectos tradicionales. El proceso de instalación es definitivamente más rápido - se hace por el equipo del fabricante. En este caso el espacio en el ático es seriamente limitado, lo que podría ser una desventaja para algunos.
+
+![Las cerchas tradicionales de los tejados frente a los marcos de madera prefabricada](/uploads/konstrukcje-dachu.jpg "Las cerchas tradicionales de los tejados frente a los marcos de madera prefabricada")
+
+## ¿Qué madera es la mejor para las cerchas del techo?
+
+Cuando se hace un armazón de madera, uno debe usar el tipo de madera correcto. Debe ser durable y tener la sección transversal correcta. La madera de los aserraderos y depósitos de madera está especialmente marcada. El material debe ser elegido de acuerdo con el proyecto del edificio, así que presta atención a la **clase de resistencia de la madera**. Compruebe si la madera comprada cumple con los requisitos de construcción y tiene los certificados en términos de parámetros específicos.
+
+La clase de madera está marcada con una letra y un número, por ejemplo **C20, D30**. La letra representa el tipo de madera y el número, por su flexibilidad.
+
+¿Qué tipo de madera es la mejor? Las cerchas de los tejados suelen utilizar **madera de coníferas, por ejemplo, abeto o pino, a veces alerce o abeto**. El nivel de humedad de la madera es otro aspecto importante. El material debe estar bien seco - la madera seca es 50% más duradera que la húmeda. Las vigas húmedas pueden deformarse con el tiempo. E**l mejor nivel de humedad es no más del 15%.** La mejor solución, por lo tanto, es comprar madera seca de un lugar de confianza.
+
+Debido a que la madera es particularmente vulnerable a los daños, es crucial asegurarla. Sólo así se puede estar seguro de que la viga del techo dura mucho tiempo. **La madera para techos debe ser impregnada**, para que esté protegida contra la degradación biológica, las plagas y el fuego. Por esta razón, las vigas se empapan en productos apropiados.
+
+## Construcción del techo - paso a paso
+
+La construcción de cerchas y marcos de madera implica la unión de varias vigas de construcción. Además del esquema general para combinar la madera, los elementos de conexión son igualmente importantes. Hay muchas soluciones disponibles. Algunos expertos utilizan clavos y juntas tradicionales. También se pueden utilizar clavos y tornillos, así como placas de metal y accesorios para conectar las vigas. **Una de las soluciones más avanzadas implica el uso de tornillos para madera especialmente diseñados**. El proyecto debe especificar el número exacto de los conectores requeridos.
+
+**La construcción del techo comienza con la fijación de las placas de la pared.** Luego, se instalan otros elementos - dependiendo del proyecto individual - vigas, postes y correas. El último paso implica la fijación de las vigas. Los elementos deben ser colocados a una distancia adecuada entre sí - hay que seguir estrictamente el proyecto.
+
+Las cerchas prefabricadas del techo se conectan con placas de clavos especiales. Estos tejados suelen ser ensamblados por un equipo de la empresa que vende la estructura de madera. **A veces se utiliza una grúa. El proceso de instalación no suele durar más de 3 días.**
+
+## El precio de las cerchas del techo
+
+Las cerchas de los tejados son elementos cuyo costo puede variar dependiendo de varios factores. El **tamaño del edificio** es el más importante, pero también hay que considerar el diseño del techo y lo complicado que es la construcción.
+
+El tipo de armazón de madera más barato es un tejado a dos aguas. En este caso, se utilizan las cerchas más simples con vigas, así como las cerchas de vigas de cuello. Si las paredes opuestas del edificio están a más de 11 metros de distancia, se debe usar una cercha de correa más cara.
+
+En el caso de los tejados de cadera y multipendientes, las cerchas de techo son más complicadas y, por lo tanto, más difíciles de construir. Se requieren más elementos y los costos de instalación son más altos.
+
+**Si su casa no es muy grande, considere la posibilidad de comprar una cercha prefabricada para el techo**. En comparación con las cerchas de techo tradicionales, es a menudo una solución mucho más barata.
