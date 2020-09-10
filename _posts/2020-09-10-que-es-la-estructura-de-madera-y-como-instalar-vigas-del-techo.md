@@ -24,15 +24,15 @@ author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: fr
-  link: ''
+  link: https://instalguru.fr/blog/qu-est-ce-que-la-charpente-en-bois-et-comment-installer-les-fermes-de-toit.html
 - lang: it
-  link: ''
+  link: https://instalguru.it/blog/che-cose-lintelaiatura-in-legno-come-installare-travi-del-tetto.html
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/was-ist-ein-holzrahmenwerk-und-wie-werden-dachstuhle-installiert.html
 - lang: cs
-  link: ''
+  link: https://instalguru.cz/blog/co-je-stresni-vazniky-a-jak-jej-sestavit.html
 - lang: es
-  link: ''
+  link: https://instalguru.es/blog/que-es-la-estructura-de-madera-y-como-instalar-vigas-del-techo.html
 - lang: pl
   link: https://instalguru.pl/blog/czym-jest-wiezba-dachowa-i-jak-ja-montowac.html
 - lang: en
