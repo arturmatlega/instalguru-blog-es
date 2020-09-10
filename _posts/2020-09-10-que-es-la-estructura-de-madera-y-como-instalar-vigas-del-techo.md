@@ -23,6 +23,16 @@ author_desc: Especialista en ventas y atención al cliente en Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
+- lang: fr
+  link: ''
+- lang: it
+  link: ''
+- lang: de
+  link: ''
+- lang: cs
+  link: ''
+- lang: es
+  link: ''
 - lang: pl
   link: https://instalguru.pl/blog/czym-jest-wiezba-dachowa-i-jak-ja-montowac.html
 - lang: en
