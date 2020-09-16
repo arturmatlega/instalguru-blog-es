@@ -54,17 +54,17 @@ author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: cs
-  link: ''
+  link: https://instalguru.cz/blog/jak-odstranit-silikon-3-ucinne-zpusoby-odstraneni-silikonu.html
 - lang: fr
-  link: ''
+  link: https://instalguru.fr/blog/comment-enlever-joint-silicone-3-methodes-efficaces.html
 - lang: it
-  link: ''
+  link: https://instalguru.it/blog/come-togliere-il-silicone-3-metodi-per-rimozione-del-silicone.html
 - lang: es
-  link: ''
+  link: https://instalguru.es/blog/como-quitar-la-silicona-3-mejor-metodos-para-eliminar-silicona.html
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/wie-entfernt-man-silikon-3-effektive-silikon-entfernen-methoden.html
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/how-to-remove-silicone-3-effective-methods-for-silicone-removal.html
 - lang: pl
   link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
