@@ -1,12 +1,12 @@
 ---
 main_keywords: []
 layout: post
-seo_title: "¿Cómo purificar el agua en casa? Sistema de filtración de agua en el hogar"
+seo_title: "¿Cómo Purificar el Agua en Casa? Sistema de Filtración de Agua"
 seo_description: "¿Te preguntas cómo purificar el agua del grifo? \U0001F6B0 ¿Quieres
   mejorar su olor y sabor? ➡️ Aprende cuál es el mejor purificador de agua para ti."
 date: 2020-09-23 22:00:00 +0000
 update_date: 2020-09-23 22:00:00 +0000
-title: "¿Cómo purificar el agua en casa? Sistema de filtración de agua en el hogar"
+title: "¿Cómo Purificar el Agua en Casa? Sistema de Filtración de Agua"
 small-intro: El agua es un elemento sin el cual el ser humano no podría funcionar
   diariamente.
 intro: El agua es un elemento sin el cual el ser humano no podría funcionar diariamente.
