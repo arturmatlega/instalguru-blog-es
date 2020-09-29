@@ -33,7 +33,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Especialista en ventas y marketing en Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: cs
+  link: https://instalguru.cz/blog/jak-zlepsit-chut-vody-domaci-stanice-pro-cisteni-vody.html
+- lang: es
+  link: https://instalguru.es/blog/como-purificar-el-agua-en-casa-sistema-de-filtracion-de-agua-en-el-hogar.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-purifier-l-eau-a-la-maison-systeme-de-filtration-de-l-eau.html
+- lang: it
+  link: https://instalguru.it/blog/come-purificare-l-acqua-a-casa-sistema-di-filtrazione-dell-acqua.html
+- lang: de
+  link: https://instalguru.de/blog/wie-reinigt-man-wasser-zu-hause-beste-wasserfiltersystem.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-purify-water-at-home-home-water-filtration-system.html
+- lang: pl
+  link: https://instalguru.pl/blog/jak-poprawic-smak-wody-domowa-stacja-uzdatniania-wody.html
 
 ---
 ## ¿Cómo se determina el sabor y la calidad del agua?
