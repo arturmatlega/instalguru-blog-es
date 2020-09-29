@@ -1,13 +1,13 @@
 ---
 main_keywords: []
 layout: post
-seo_title: "¿Cómo conectar interruptor? Diagrama interruptor fácil de dos vías"
+seo_title: "¿Cómo Conectar Interruptor? Diagrama Interruptor Fácil Dos Vías"
 seo_description: "¿Te preguntas cómo conectar un interruptor? \U0001F4A1 Revisa el
   diagrama del interruptor de dos vías. \U0001F44D Conecta un interruptor, ¡hazlo
   tú mismo!"
 date: 2020-09-28 22:00:00 +0000
 update_date: 2020-09-28 22:00:00 +0000
-title: "¿Cómo conectar interruptor? Diagrama interruptor fácil de dos vías"
+title: "¿Cómo Conectar Interruptor? Diagrama Interruptor Fácil Dos Vías"
 small-intro: Un interruptor de luz es un modesto dispositivo gracias al cual la vida
   cotidiana en la casa es mucho más fácil.
 intro: Un interruptor de luz es un modesto dispositivo gracias al cual la vida cotidiana
