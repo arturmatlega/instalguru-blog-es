@@ -27,70 +27,70 @@ toc: true
 hreflangs: []
 
 ---
-## Two way light switch - what are its features?
+## Interruptor de luz de dos vías, ¿cuáles son sus características?
 
-There is probably not too many people who are not electricians and pay attention to devices such as light switches. It is enough that they serve their function - that is, turn the light on and off. These devices, however, concern exactly the matter of functionality - there are many types of them, and choosing the right one might not be that obvious for a layman.
+Probablemente no hay mucha gente que no sea electricista y preste atención a dispositivos como los interruptores de luz. Es suficiente con que cumplan su función, es decir, encender y apagar la luz. Estos dispositivos, sin embargo, se refieren exactamente a la cuestión de la funcionalidad - hay muchos tipos de ellos, y elegir el correcto podría no ser tan obvio para un lego en la materia.
 
-Specialists classify light switches in accordance to several criterions. The most common types are:
+Los especialistas clasifican los interruptores de luz de acuerdo a varios criterios. Los tipos más comunes son:
 
-* **Surface and flush-mounted light switches** - the differentiation concerns the installation method.
-* **Single and double-pole switches** - the first ones control a single light source, whereas the latter can control two light bulbs at the same time.
-* **Multipole switches** - they control more light sources and usually have two or more buttons.
-* **Automatic switches** - they switch off the light automatically after a given time.
+* **Interruptores de luz de superficie y empotrados** - la diferenciación se refiere al método de instalación.
+* **Interruptores unipolares y bipolares** - los primeros controlan una sola fuente de luz, mientras que los segundos pueden controlar dos bombillas al mismo tiempo.
+* **Interruptores multipolares** - controlan más fuentes de luz y suelen tener dos o más botones.
+* **Interruptores automáticos** - apagan la luz automáticamente después de un tiempo determinado.
 
-Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have a smooth panel with a sensor which reacts to touch.
+A juzgar por la estética, también se pueden distinguir los interruptores de luz según el tipo de botones. Los fabricantes ofrecen interruptores tradicionales con un botón mecánico. Los interruptores de luz táctil están ganando popularidad. Tienen un panel liso con un sensor que reacciona al tacto.
 
-![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
+![Interruptor de luz de dos vías, ¿cuáles son sus características?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Interruptor de luz de dos vías, ¿cuáles son sus características?")
 
-### Two way and three way light switch
+### Interruptor de luz de dos y tres vías
 
-Two way light switches are a special type of devices. They allow to control one light source from two different locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
+Los interruptores de luz de dos vías son un tipo especial de dispositivos. Permiten controlar una fuente de luz desde dos lugares diferentes. Es una solución particularmente útil en las escaleras, para no tener que volver a subir o bajar para apagar la luz.
 
 {:.distinction.distinction-info.distinction-positive}
 
-For the same reason, the two way switch diagram is used in long corridors.
+Por la misma razón, el diagrama de conmutación de dos vías se utiliza en pasillos largos.
 
-If more than two switches are needed for light control, one should use a three way light switch. Such circuit involves two external switches and one three way light switch between them.
+Si se necesitan más de dos interruptores para el control de la luz, se debe utilizar un interruptor de luz de tres vías. Tal circuito implica dos interruptores externos y un interruptor de luz de tres vías entre ellos.
 
-## How to connect a two way switch?
+## ¿Cómo conectar un interruptor de dos vías?
 
-Connecting any switch - a two way switch as well - is not a difficult task, although one needs to follow certain rules. Of course, the basic issue to remember when connecting a light switch is cutting the electricity off. Apart from this, one has to understand how a light switch works.
+Conectar cualquier interruptor - un interruptor de dos vías también - no es una tarea difícil, aunque hay que seguir ciertas reglas. Por supuesto, la cuestión básica a recordar cuando se conecta un interruptor de luz es cortar la electricidad. Aparte de esto, uno tiene que entender cómo funciona un interruptor de luz.
 
-### Light switch - general principle of operation
+### Interruptor de la luz - principio general de funcionamiento
 
-Generally speaking, to connect a light switch, one needs several elements. They are:
+En general, para conectar un interruptor de luz, se necesitan varios elementos. Ellos son:
 
-* Phase wire - it's usually the black or the brown wire, although it might also be marked with another color - except from blue and yellow-green. It is marked by letter L on the diagrams presented below.
-* Neutral wire (N) - it's blue.
-* Earth conductor (PE) - it's a grounded wire, marked with yellow-green insulation.
-* Wires connecting the switches (P1, P2...)
-* Light source.
-* One or several switches.
+* El cable de fase - suele ser el negro o el marrón, aunque también puede estar marcado con otro color - excepto el azul y el amarillo-verde. Está marcado con la letra L en los diagramas que se presentan a continuación.
+* Cable neutro (N) - es azul.
+* Conductor de tierra (PE) - es un cable conectado a tierra, marcado con un aislamiento amarillo-verde.
+* Cables que conectan los interruptores (P1, P2...)
+* Fuente de luz.
+* Uno o varios interruptores.
 
-Each switch - one or multiple way, operates based on similar principle. To turn on the light, one has to move the switch, that is - close the electric circuit. Analogically, moving the switch back off cuts the circuit and the electricity stops flowing - the light  goes off.
+Cada interruptor, de una o varias maneras, funciona basado en un principio similar. Para encender la luz, hay que mover el interruptor, es decir, cerrar el circuito eléctrico. Análogamente, al mover el interruptor de nuevo se corta el circuito y la electricidad deja de fluir - la luz se apaga.
 
-To connect the simplest one way light switch, one needs to connect wires between the switch and the light bulb. **See the diagram for such a circuit below:**
+Para conectar el interruptor de luz unidireccional más sencillo, hay que conectar cables entre el interruptor y la bombilla. **Vea el diagrama de dicho circuito a continuación:**
 
-![A light switch - general principle of operation](/uploads/jak_podlaczyc_wlacznik_schemat1_en.jpg "A light switch - general principle of operation")
+![Interruptor de la luz - principio general de funcionamiento](/uploads/jak_podlaczyc_wlacznik_schemat1_es.jpg "Interruptor de la luz - principio general de funcionamiento")
 
-Under no circumstance mix the wires - for instance phase with the neutral line. It would pose a threat during changing a light bulb - even when the light is turned off!
+Bajo ninguna circunstancia mezclar los cables - por ejemplo la fase con la línea neutral. Sería una amenaza durante el cambio de una bombilla - ¡incluso cuando la luz está apagada!
 
-### Two way switch - diagram
+### Interruptor de dos vías - diagrama
 
-Connecting a two way switch circuit is a little bit more complicated, as it uses two switches. So - **how to connect a two way switch?**
+Conectar un circuito de interruptor de dos vías es un poco más complicado, ya que utiliza dos interruptores. Entonces, **¿cómo conectar un interruptor de dos vías?**
 
-A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neutral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
+Un diagrama de conmutación de dos vías es más elaborado. En este caso, el conductor fásico se conecta con uno de los interruptores de dos vías, y la fuente de luz, con el otro. El cable neutro y el conductor de tierra se conducen a la fuente de luz de forma independiente. Los dos interruptores deben conectarse entre sí con cables adicionales.
 
-**See the two way switch diagram below:**
+**Vea el diagrama del interruptor de dos vías a continuación:**
 
-![Two way switch - diagram](/uploads/jak_podlaczyc_wlacznik_schemat2_en.jpg "Two way switch - diagram")
+![Interruptor de dos vías - diagrama](/uploads/jak_podlaczyc_wlacznik_schemat2_es.jpg "Interruptor de dos vías - diagrama")
 
-### How to connect a three way light switch?
+### ¿Cómo conectar un interruptor de luz de tres vías?
 
-As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited, and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
+Como ya se ha mencionado, **es posible cablear más de dos interruptores de luz para la misma fuente de luz**. Para hacer esto, se necesita usar un interruptor de luz de tres vías. El esquema de tal conexión no es muy diferente del diagrama del interruptor de dos vías - hay un tercer interruptor entre los dos externos. El número de interruptores intermedios es ilimitado, y puede ser ajustado según sea necesario. Gracias a éste será capaz de apagar la luz de la escalera mientras está en otra habitación.
 
-**See the three way light switch diagram presented below:**
+**Vea el diagrama del interruptor de luz de tres vías que se presenta a continuación:**
 
-![How to connect a three way light switch?](/uploads/jak_podlaczyc_wlacznik_schemat3.jpg "How to connect a three way light switch?")
+![¿Cómo conectar un interruptor de luz de tres vías?](/uploads/jak_podlaczyc_wlacznik_schemat3_es.jpg "¿Cómo conectar un interruptor de luz de tres vías?")
 
-**Connecting a two way or a three way switch is not as difficult as it might seem.** If you have the right switch diagram, you can easily do it yourself.
+**Conectar un interruptor de dos o tres vías no es tan difícil como podría parecer.** Si tienes el diagrama de conmutación correcto, puedes hacerlo fácilmente por ti mismo.
