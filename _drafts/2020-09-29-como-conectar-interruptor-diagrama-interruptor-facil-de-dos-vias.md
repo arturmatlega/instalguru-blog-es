@@ -24,7 +24,21 @@ author_name: Mateusz Knapik
 author_desc: Especialista en ventas y atención al cliente en Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: cz
+  link: ''
+- lang: it
+  link: ''
+- lang: fr
+  link: ''
+- lang: es
+  link: ''
+- lang: de
+  link: ''
+- lang: en
+  link: ''
+- lang: pl
+  link: ''
 
 ---
 ## Interruptor de luz de dos vías, ¿cuáles son sus características?
