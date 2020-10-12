@@ -9,7 +9,8 @@ main_keywords:
 - materiales de tubería
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: 'Sistema de Gas. ¿Qué Tuberías Son Mejores: Cobre o Acero?'
+title: "¿Qué tubos son mejores, los de cobre o los de acero? Lo esencial de la instalación
+  de gas"
 small-intro: La instalación de líneas de gas ha sido un elemento esencial para casi
   todos los nuevos edificios en los últimos años.
 intro: La instalación de líneas de gas ha sido un elemento esencial para casi todos
