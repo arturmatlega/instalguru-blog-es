@@ -1,35 +1,29 @@
 ---
 layout: post
-seo_title: 'Accesorios de tubería: ¿los accesorios roscados y a presión son diferentes?'
-seo_description: "¿Está planeando una renovación de su casa? \U0001F3E0 \U0001F449
-  Aprenda la diferencia entre accesorios roscados y a presión"
+seo_title: Calefacción Central - ¿Qué Accesorios de Tubería Elegir?
+seo_description: "¿Estás construyendo una casa? \U0001F3E0 ¿Se preguntan cómo elegir
+  los accesorios de tubería PEX? \U0001F449 Aprenda más sobre los accesorios de las
+  tuberías."
 main_keywords:
-  - accesorios de pex
-  - accesorios de tubería
-  - accesorios de tubería de pvc
-  - accesorios hidráulicos
-  - accesorios de cobre
-  - accesorios de tubería pex
+- accesorios de pex
+- accesorios de tubería
+- accesorios de tubería de pvc
+- accesorios hidráulicos
+- accesorios de cobre
+- accesorios de tubería pex
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Accesorios de tubería: ¿los accesorios roscados y a presión son diferentes?'
-small-intro: La instalación de agua y calefacción central utiliza varios tipos de
-  accesorios de tubería
-intro: La instalación de agua y calefacción central utiliza varios tipos de accesorios
-  de tubería. Dos de los elementos más populares son los accesorios roscados y los
-  elementos de presión. ¿Cuál es la diferencia entre ellos y cuáles son sus mayores
-  ventajas? Los accesorios de tubería están entre los elementos más importantes de
-  cualquier instalación de agua. Los accesorios de PVC y los accesorios de PEX son
-  cada vez más populares, siendo elegidos más a menudo que los accesorios de cobre.
-  Se pueden utilizar tanto en la instalación de calefacción (95° C máx.) como en la
-  de agua. Una de las mayores ventajas de una solución de este tipo es la posibilidad
-  de transferir agua potable sin riesgo de contaminarla. Independientemente del tipo,
-  ambos productos pueden utilizarse para conectar una tubería PEX con otros elementos
-  en la instalación de agua. Los diferentes tipos, como las tes y los codos son útiles
-  para construir instalaciones más grandes y más complicadas.
+update_date: 2020-10-13 22:00:00 +0000
+title: Calefacción central - ¿qué accesorios de tubería garantizan la mejor calefacción?
+small-intro: Cada sistema de calefacción central se basa en varias conexiones de diferentes
+  elementos.
+intro: Each central heating system is based on various connections of different elements.
+  It mostly depends on their construction based on diversified materials. PEX fittings
+  - threaded and press types have been one of the most popular over the years. But,
+  depending on the needs - central heating of a building can utilize copper, nickel
+  or cast iron tubing. Learn the characteristic features of each type of heating system
+  and check how they are constructed.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: 'Dos de los elementos más populares son los accesorios roscados y los
-  elementos de presión. '
+photo_desc: Two of the most popular PEX elements are threaded and press fittings.
 faq:
 - question: 'Accesorios PEX: ¿cómo instalarlos?'
   answer: El método de instalación de los accesorios de tubería PEX depende de su
@@ -69,47 +63,71 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
-## Accesorios de tubería - construcción e instalación
+## Sistema de calefacción basado en sistemas PEX
 
-Ya sea que se trate de accesorios de PVC, PEX, de cobre o de cualquier otro tipo, su construcción no es muy complicada. Los elementos difieren sólo ligeramente. La principal distinción está en el método de instalación. Vea una descripción completa de los accesorios roscados y a presión a continuación.
+El sistema de calefacción central, muy popular a lo largo de los años, se basa principalmente en sistemas PEX. Debido al material utilizado para su producción, así como a las características, las tuberías como PEX-AL-PEX y los accesorios de PEX pueden utilizarse tanto para sistemas de calefacción central como de agua. **La limitación en este caso es la temperatura, que puede llegar a un máximo de 95°C (203 F).**
 
-### Accesorios roscados
+Como ventaja adicional de esta solución, es posible transmitir agua potable sin riesgo de contaminación, independientemente de que se escojan accesorios de prensa o molduras. Cuando se conectan las tuberías PEX con otros elementos de instalación de agua, se pueden utilizar varios tipos de accesorios. Por lo general, son codos PEX y tes PEX. Al usarlos, se pueden crear sistemas más grandes y más complicados, que se ajustan a la estructura de un edificio. Gracias a esto, el plan del sistema de calefacción es fácil de hacer, y se puede realizar rápidamente.
+
+La diferencia de los sistemas de calefacción con los accesorios PEX radica en el uso de varios tipos de molduras. **¿Cuáles son los rasgos característicos de esos elementos?**
+
+### Sistemas de calefacción con accesorios roscados
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-Un accesorio roscado consiste en los siguientes elementos:
+Cada sistema de calefacción utiliza **tubos PEX/AL/PEX** como base. Sin embargo, están conectados entre sí con varios accesorios. Un accesorio roscado consiste en los siguientes elementos:
 
-{:.list.list-positive}
+1. Una tuerca roscada.
+2. Un anillo de ajuste.
+3. Tubo (con juntas tóricas de estanqueidad).
+4. Espaciador dieléctrico.
+5. Cuerpo del racor.
 
-* Una tuerca roscada.
-* Un anillo de ajuste.
-* Tubo (con juntas tóricas de estanqueidad).
-* Espaciador dieléctrico.
-* Cuerpo del racor.
+Threaded pipe fittings have a threaded nut which needs to be twisted off the dielectric spacer. Then the nut and tightening ring is put on the pipe. The tube should be placed inside the pipe and press it tightly to eliminate any spaces between the two elements (the pipe should be cut in 90 degree angle). If **the tube is inside the pipe**, the nut should be screwed with hands as tightly as possible and then fastened with a wrench (a 3/4 turn). Be careful not to fasten the nut too much, as it could damage both the fitting and the pipe.
 
-Los accesorios de la tubería tienen una tuerca roscada que debe ser retorcida del espaciador dieléctrico. Luego se coloca la tuerca y el anillo de ajuste en el tubo. El tubo debe ser colocado dentro de la tubería y presionarlo fuertemente para eliminar cualquier espacio entre los dos elementos (la tubería debe ser cortada en un ángulo de 90 grados). Si el tubo está dentro del tubo, la tuerca debe ser atornillada con las manos lo más apretado posible y luego sujetada con una llave. Tenga cuidado de no apretar demasiado la tuerca, ya que podría dañar tanto el accesorio como el tubo.
+{:.distinction.distinction-info.distinction-positive}
 
-### Accesorios de la tubería de la prensa
+Ten cuidado de no apretar la tuerca, ya que podrías dañar tanto el accesorio como la tubería.
+
+### Un sistema de calefacción con accesorios de tubería a presión
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-Hay varios elementos en los accesorios de las tuberías de presión:
+Los accesorios de tubería de presión también se utilizan comúnmente en los sistemas de calefacción. Hay varios elementos en los accesorios de tubería de presión:
 
-{:.list.list-positive}
+1. Ajustando la manga.
+2. Tubo (con juntas tóricas de sellado).
+3. Espaciador dieléctrico.
+4. Cuerpo de ajuste.
 
-* Ajustando la manga.
-* Tubo (con juntas tóricas de sellado).
-* Espaciador dieléctrico.
-* Cuerpo de ajuste.
+La instalación de este tipo de accesorios de tubería implica poner el manguito de sujeción directamente en la tubería (sin desmontarlo). Se utilizan unos orificios especiales situados en el tubo para asegurarse de que la tubería se ha colocado a una profundidad suficiente. Para fijar el accesorio, se utiliza una herramienta **mecánica especial de presión**, que es la principal diferencia entre los dos tipos. La herramienta se coloca en el tubo y se enciende. Después de unos segundos se puede oír un ruido característico, que significa que el accesorio ha sido conectado correctamente con el tubo.
 
-La instalación de este tipo de accesorios de tubería implica poner el manguito de sujeción directamente en la tubería (sin desmontarlo). Se utilizan unos orificios especiales situados en el tubo para asegurarse de que la tubería se ha colocado a una profundidad suficiente. Para fijar el accesorio, se utiliza una herramienta mecánica especial de presión, que es la principal diferencia entre los dos tipos. La herramienta se coloca en el tubo y se enciende. Después de unos segundos se puede oír un ruido característico, que significa que el accesorio ha sido conectado correctamente con el tubo.
+## Conexiones de tuberías - principales diferencias en los sistemas PEX
 
-## Accesorios de tubería - principales diferencias
+Todo sistema de calefacción debe ser altamente duradero. Es importante crear conexiones herméticas, resistentes a varios factores. Por esta razón, se utilizan frecuentemente accesorios de latón: codos, pezones y varios conectores.
 
-Como se ha indicado en las descripciones anteriores, la principal diferencia entre los dos sistemas radica en el método de instalación. Los accesorios roscados son más fáciles de instalar y no requieren ninguna herramienta especial. Los accesorios de tubería roscados son también más baratos que los otros (aunque la diferencia de precio es relativamente pequeña). Una ventaja adicional es el hecho de que el accesorio puede ser fácilmente desmontado después de la instalación.
+### Accesorios para radiadores
 
-Sin embargo, existen ciertas limitaciones. Puede ocurrir que después de desmontar el accesorio, el anillo de apriete necesite ser reemplazado. Otra desventaja es que después de la instalación el accesorio no puede ser movido, ya que podría causar fugas. Es particularmente problemático con los codos, ya que tienen que ser posicionados en un cierto ángulo.
+Los accesorios de latón, debido a su durabilidad, así como la resistencia a las altas temperaturas, se utilizan para los radiadores. En este caso particular, se utilizan típicamente uniones de tubos. Además de ser duraderas, son fáciles de mantener y altamente funcionales.
 
-Los accesorios de la tubería de presión son un poco más caros. El uso de una herramienta de prensa mecánica es un método más seguro de instalación (es fácil sujetar un accesorio roscado demasiado apretado). Los accesorios de tubería prensados (especialmente los codos y las tes) pueden moverse después de la instalación. Esto significa que pueden ser fácilmente ajustados al siguiente elemento sin riesgo de daño. Además, pueden colocarse en el hormigón, ya que son más duraderos y estables.
+{:.distinction.distinction-quotation.distinction-negative}
 
-Ambos sistemas tienen sus puntos fuertes y débiles. La decisión entre ellos depende de las necesidades individuales de cada uno.
+_Gracias a esos elementos, puedes quitar rápidamente el radiador si los sistemas de calefacción funcionan mal._
+
+### Calefacción - sistemas de agua y gas
+
+Los accesorios de latón también construyen sistemas de gas y agua. También usan varios tipos de accesorios. El uso de reductores de latón y reductores de pezones es muy ventajoso. Gracias a estos elementos, los diferentes diámetros de los accesorios ya no son problemáticos. La construcción de un edificio también puede forzar ciertos cambios que deben aplicarse a la disposición del sistema de calefacción. Cambiar la dirección de las tuberías no es un problema. Sólo hay que utilizar una te de latón o el codo antes mencionado.
+
+## Accesorios niquelados en la calefacción central
+
+Los elementos niquelados, cubiertos con una capa protectora, se utilizan para sistemas en los que la estética es tan importante como la durabilidad. Concierne a todos los puntos expuestos, sobre todo en los baños, pero no sólo.
+
+Gracias a los elementos, uno puede estar seguro de que el sistema de calefacción central o las tuberías van a ser duraderos y resistentes a varios factores. ¿Qué tipo de accesorios son los más populares? Son acopladores niquelados, reductores niquelados y codos niquelados.
+
+## Calefacción central basada en sistemas de hierro fundido
+
+Aparte de todas las posibilidades mencionadas, un sistema de calefacción central también puede estar compuesto por elementos de hierro fundido galvanizado. Aunque muchas personas renuncian a esta solución, sobre todo por razones estéticas, no se puede, sin embargo, olvidar las características más importantes. Los accesorios de hierro fundido son uno de los elementos más duraderos disponibles en el mercado. Según los expertos, pueden ser utilizados en lugares con alto riesgo de cambios de presión. Por esta razón, los accesorios de hierro fundido se utilizan no sólo para la calefacción central, sino también para el agua, el gas, la lucha contra el fuego y los sistemas de ventilación.
+
+Como en todos los casos anteriores, las tes de hierro fundido, las boquillas reductoras galvanizadas y las uniones de tubos de hierro fundido son productos populares, entre muchos otros elementos, que pueden adaptarse individualmente al sistema.
+
+Independientemente de las piezas de equipo utilizadas para los sistemas de calefacción, la construcción adecuada es la más importante. Uno puede hacerlo por sí mismo o preguntar a un profesional. Mucho depende de las características específicas del sistema, así como del medio utilizado para la calefacción.
