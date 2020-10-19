@@ -10,7 +10,7 @@ main_keywords:
 - accesorios sanitarios
 - sanitarios
 date: 2020-01-21T11:00:00.000+00:00
-update_date: 2020-01-21T11:00:00.000+00:00
+update_date: 2020-10-14 10:00:00 +0000
 title: Instalación del lavabo del baño. ¿Cómo instalar los accesorios del baño?
 small-intro: Conectar los aparatos y accesorios sanitarios es una de las etapas más
   importantes para terminar un baño.
