@@ -1,31 +1,28 @@
 ---
 layout: post
-seo_title: Accesorios de baño. ¿Cómo instalar los muebles de baño?
-seo_description: El baño, la ducha, el lavabo y el inodoro son los elementos más importantes
-  de cada baño. ¿Cómo instalar correctamente los accesorios del baño?
+seo_title: Instalación Rápida y Rácil del Fregadero del Baño - Es Simple
+seo_description: "¿Te preguntas cómo instalar un lavabo en el baño? \U0001F50D ¡Comprueba
+  cómo hacerlo rápidamente! \U0001F6BF Aprende el secreto de un baño funcional."
 main_keywords:
-  - accesorios de baño
-  - sanitaria
-  - muebles de baño
-  - accesorios sanitarios
-  - sanitarios
+- accesorios de baño
+- sanitaria
+- muebles de baño
+- accesorios sanitarios
+- sanitarios
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
-title: Instalación de accesorios de baño
-small-intro: La etapa más importante y difícil de amueblar el baño es encontrar los
-  accesorios adecuados.
-intro: La etapa más importante y difícil de amueblar el baño es encontrar los accesorios
-  adecuados. La instalación de muebles de baño como el inodoro, el lavabo, la ducha
-  o la bañera puede ser problemática. ¿Cómo instalar rápidamente los accesorios sanitarios
-  y conectarlos al suministro de agua y al sistema de alcantarillado? Aprende lo que
-  debes saber al respecto. Una instalación adecuada de los accesorios de baño es un
-  asunto muy importante - el correcto funcionamiento de los accesorios depende de
-  ello. Si los aparatos están mal conectados, pueden tener fugas y, en consecuencia,
-  inundar el baño. Podría causar una circulación inadecuada de agua en la instalación.
-  Por eso la correcta instalación de todos los aparatos es tan crucial para el buen
-  funcionamiento del baño.
+title: Instalación del lavabo del baño. ¿Cómo instalar los accesorios del baño?
+small-intro: Conectar los aparatos y accesorios sanitarios es una de las etapas más
+  importantes para terminar un baño.
+intro: La instalación de sanitarios y accesorios de baño es una de las partes más
+  importantes para terminar un baño. Se trata principalmente de muebles de baño como
+  el inodoro, el lavabo, la ducha o la bañera. Mientras que instalar una ducha o una
+  bañera moderna puede ser bastante problemático, la instalación de un lavabo es algo
+  que uno puede hacer por sí mismo. Todo lo que necesitas hacer es conseguir los accesorios
+  sanitarios adecuados y seguir las instrucciones del fabricante.
 photo: "/uploads/96ef8ac978b9458887607b6d09e23b84.png"
-photo_desc: La instalación de los accesorios de baño es sólo aparentemente difícil.
+photo_desc: Todo lo que necesitas hacer es conseguir los accesorios sanitarios adecuados
+  y seguir las instrucciones del fabricante
 faq:
 - question: "¿Dónde comprar accesorios de baño?"
   answer: El mejor lugar para comprar accesorios de baño es una ferretería. También
@@ -52,56 +49,68 @@ hreflangs:
   link: https://instalguru.cz/blog/instalace-prislusenstvi-koupelny.html
 
 ---
-## ¿Cómo se puede hacer una cuenca?
+## ¿Por qué es importante instalar el fregadero correctamente?
 
-Existen varios métodos para la instalación de cuencas. Un cuenco colgado en la pared se fija a la pared con pernos y soportes. También hay fregaderos de pie combinados con armarios - unidades de vanidad.
+Una instalación adecuada del fregadero, independientemente de su tipo, tiene un efecto tremendo en su correcto funcionamiento. También es importante debido a la estanqueidad de la fuga. **Incluso los más pequeños errores durante la instalación del fregadero suponen un riesgo de fugas, o en situaciones más graves, de inundar toda la habitación**. Si la instalación del fregadero está mal hecha, se puede esperar que el agua dentro del sistema no fluya adecuadamente. Esto limita la funcionalidad del baño. Por lo tanto, uno debe seguir ciertas reglas para la instalación del lavabo, para evitar más complicaciones.
 
-{:.distinction.distinction-info.distinction-negative}
+## ¿Cómo se puede conectar el lavabo de un baño?
 
-Dependiendo de un modelo particular, el proceso de instalación va a ser diferente.
+Hay varios métodos para la instalación del lavabo del baño. Mucho depende del **tipo de equipo que se elija**. Un lavabo de pared se fija a la pared con pernos y soportes. Puedes usar un juego de lavabo con todos los elementos necesarios. También hay otros tipos de cerámica para el baño. Por esta razón, un lavamanos se instala de una manera completamente diferente. Se coloca en un armario o se combina con él. La fontanería de un lavabo se ve diferente en cada uno de esos casos.
 
-### Cuenca colgada en la pared
+## Fregaderos de pared - ¿cómo instalarlos?
 
-Este tipo de muebles de baño suelen tener formas redondas o cuadradas. La dificultad de fijar un lavabo a una pared depende de su forma. Tengan en cuenta que en este tipo de aparato un sifón de lavabo permanece visible. Por esta razón es una buena idea elegir un aparato que combine con el resto del diseño del baño. Un elemento cromado podría ser la mejor solución en este caso.
+La instalación de un fregadero de pared no suele dar problemas. Depende de la forma de los sanitarios de este tipo - redondos o rectangulares. Para algunos propietarios, el sifón de desagüe puede ser un inconveniente, ya que permanece visible. Sin embargo, hay dos opciones que podrían resolver el problema. Uno podría comprar un sifón cromado de aspecto estético, a juego con el resto de los elementos del baño. Otra opción es esconder el sifón del lavabo detrás de un pedestal o una tapa de sifón.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-También es posible esconder los elementos de la instalación detrás de un pedestal o una tapa de trampa. Es una de las soluciones más populares en este caso.
+Esta última solución es particularmente atractiva para aquellos que han elegido el glamour o el estilo industrial para su baño. Es un gran elemento decorativo.
 
-Comienza la instalación colocando un desagüe automático en el desagüe. Luego instale el grifo. Recuerde insertar sellos que protejan el fregadero de las fugas. Coloque el sifón del fregadero e inserte un tubo de desagüe en él (recordando poner un sello) y una tapa. Puede hacerlo manualmente, en este caso no son necesarias herramientas especiales.
-
-### Unidad de Vanidad
-
-Este tipo suele contener una cuenca en forma de óvalo o círculo. La instalación debe comenzar cortando dos agujeros en el armario - para un grifo y para un desagüe. Luego se coloca el cuenco en la abertura correcta. Fijar el fondo del fregadero al armario, usando silicona transparente. Extienda la sustancia en los bordes y presione el lavabo contra el armario. Limpie el exceso de silicona con un paño suave y húmedo. El último paso consiste en la instalación del sifón y el taponamiento de los aparatos al sistema de agua. Utilice mangueras flexibles o tubos de cobre para este propósito.
-
-{:.distinction.distinction-info.distinction-negative}
-
-Recuerde apagar el suministro principal de agua antes de comenzar la instalación.
+La instalación del lavabo debe comenzar con la colocación de un desagüe automático en el desagüe. Luego instalar el grifo. **Durante ambos pasos, recuerde insertar sellos que protejan el lavabo de las fugas.** Coloque el sifón del fregadero e inserte un tubo de desagüe en el lateral del elemento y enrosque la tapa. Puede hacerlo fácilmente por sí mismo, y lo que es más - puede hacerse manualmente - no se necesitan herramientas especiales.
 
 ![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
 
-## Instalar un baño
+## ¿Cómo se instala un tocador?
 
-¿Dónde instalar un baño? El mejor y más comúnmente elegido lugar para colocarlo son las paredes del baño. Preste atención al suelo, el piso debe ser parejo para que la bañera sea estable. Si decide instalar una bañera en su baño, debe comenzar por las patas - sujételas a la bañera y regule su altura.
+Los muebles de cocina son uno de los lavabos de baño más populares. Se ven perfectos en los modernos interiores de estilo escandinavo. Son típicamente redondos o elípticos. El mercado ofrece una amplia variedad de equipos de este tipo, por lo que cualquiera puede ajustar un producto ideal a sus necesidades individuales.
 
-Si está seguro de que la bañera está correctamente instalada, apriete las piernas para que estén firmes. El siguiente paso es colocar el sifón y el tubo de desagüe en el lugar adecuado. Recuerde poner juntas en ambos elementos, para que el sistema recién creado no tenga fugas. Lo último que hay que hacer es fijar la manguera de la bañera al agujero de drenaje especial.
+La instalación debe comenzar cortando dos agujeros en el armario - para un grifo y para un desagüe. Luego se coloca el cuenco en la abertura correcta. Se fija al lugar con silicona transparente, que tiene un aspecto estético.
+
+Extienda la sustancia en los bordes del cuenco y presiónela contra el armario para que encaje bien. No te preocupes si has puesto demasiada silicona. Sólo limpia el exceso con un paño suave y húmedo. El último paso de la instalación del tocador consiste en conectar el sifón de los electrodomésticos al sistema de agua. Utilice mangueras flexibles o tuberías de cobre para este propósito.
+
+{:.distinction.distinction-info.distinction-negative}
+
+Recuerde apagar el suministro principal de agua antes de comenzar la instalación. De esta manera puede evitar sorpresas desagradables.
+
+## Instalación del grifo del fregadero - ¡no lo olvides!
+
+Si ha elegido un fregadero en particular, recuerde que debe instalar un grifo adecuado en él. La elección es bastante amplia en este sentido. Puede elegir entre un grifo de cubierta o de pared. Mucho depende de sus preferencias individuales y del espacio disponible. Los grifos de cubierta más pequeños son perfectos para los lavabos pequeños del baño - tienen un aspecto estético. Las griferías murales, por otro lado, son fantásticas para grandes lavabos. Incluso se pueden instalar dos grifos separados, para mayor comodidad de los miembros de la familia.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Después de instalar todo el sistema, pongan silicona en las repisas y aseguren la bañera.
+Instalar un grifo en la pared es definitivamente más fácil. Debe colocarse en la pared, sobre el lavabo. Para ello, se utilizan sellos especiales y excéntricos.
 
-## ¿Cómo se instala un inodoro?
+Para instalar un grifo de lavabo montado en la cubierta, debe ser fijado a la superficie superior de la cuenca. El conjunto suele contener sellos especiales, tornillos y mangueras de conexión.
 
-La instalación de un inodoro requiere la inserción de un mecanismo de descarga de agua en la abertura más grande. Recuerde poner un sello en ella. Los dos agujeros restantes están destinados a los pernos y las tapas. La descarga debe ser colocada en el tanque y todas las piezas aseguradas con tuercas de polipropileno. Todo el aparato debe ser estable. Asegúrese de que la descarga no se mueva.
+## Otros artículos sanitarios - instalación de baño y aseo
 
-El siguiente paso es insertar una bola flotante. Debe ser colocada a la izquierda o a la derecha de la descarga. Coloca la tapa en la parte superior e inserta la válvula de descarga en el agujero interior.
+**La instalación del fregadero no lo es todo**. Un baño funcional también debe tener un WC y una bañera o una cabina de ducha. Si quieres terminar la habitación completamente - ten en cuenta esos elementos también. ¿Qué debes recordar cuando los instales?
 
-Inserte un conector de goma de la bandeja de compensación en el tubo de desagüe situado en el suelo del baño. Debe conectarse con la salida vertical de la taza del baño. Marque los puntos para los pernos. Coloque la taza en el suelo, alineándola con los puntos de los pernos. Atornille los pernos e inserte los tapones de pared. Alinee la taza del baño una vez más y atorníllela firmemente, usando una llave de tubo.
+### Instalar una bañera - plomería
+
+La cuestión básica cuando se instala una bañera es su ubicación. Los lugares más comúnmente elegidos para colocarla son las paredes del baño. De esta manera, se puede conservar algo de espacio. Presta atención al suelo, **el piso debe ser parejo para que la bañera sea estable**. ¿Cómo se instala una bañera? Empieza por las patas - sujétalas a la bañera y regula su altura.
+
+Si está seguro de que la bañera está bien colocada, apriete las piernas. Luego, **coloque el sifón y el tubo de desagüe en un lugar adecuado**. Similar a la instalación del lavabo - recuerde poner los sellos en ambos elementos, para que el sistema recién creado no tenga fugas. ¿Eso es todo cuando se trata de la instalación de una bañera? Una, la última cuestión sigue siendo. La manguera de la bañera necesita ser conectada al agujero de drenaje especial. Después - aplicar silicona en los bordes y conectar la bañera con la pared.
+
+### ¿Cómo se instala un inodoro?
+
+Otro elemento muy importante en todo baño es una taza de baño. La instalación de un inodoro se ve similar, aunque puede diferir según el tipo. Si tienes un modelo clásico, comienza la instalación del inodoro introduciendo un **mecanismo de descarga** en la abertura más grande. Al igual que en los otros casos, recuerde ponerle un sello. Los dos agujeros restantes están destinados a los pernos y las tapas.
+
+La descarga debe ser colocada en el tanque y todas las piezas aseguradas con tuercas de polipropileno. Todo el aparato debe ser estable. Asegúrese de que la descarga no se mueva.
+
+El último paso de la instalación de un inodoro es conectar la tubería. Inserte un conector de goma de la bandeja de compensación en el tubo de desagüe situado en el suelo del baño. Debe conectarse con la salida vertical de la taza del baño. Marque los puntos para los pernos. Coloque la taza en el suelo, alineándola con los puntos de los pernos. Atornille los pernos e inserte los tapones de pared. Alinee la taza del baño una vez más y atorníllela firmemente, usando una llave de tubo. Asegúrese de que el inodoro esté fijo en su lugar y que no se mueva. Ponga tapones en los pernos. La cisterna debe fijarse a la válvula con accesorios del inodoro, en este caso una manguera flexible.
 
 {:.distinction.distinction-info.distinction-positive}
 
-Asegúrate de que el inodoro esté fijo en su lugar y que no se mueva.
+Para un mejor resultado, cubra la conexión con silicona, la misma que ha utilizado para la instalación de la bañera y el lavabo.
 
-Ponga tapones en los pernos. La cisterna debe estar conectada a la válvula con accesorios del inodoro, en este caso una manguera flexible. Para un mejor resultado, cubra la conexión con silicona.
-
-La instalación de los accesorios de baño es sólo aparentemente difícil. Gracias a los manuales apropiados uno puede hacerlo por su cuenta.
+¡Un baño funcional no es un problema! Sólo instale el lavabo y otros artículos sanitarios, usando nuestras sugerencias.
