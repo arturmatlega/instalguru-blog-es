@@ -1,30 +1,35 @@
 ---
 layout: post
-seo_title: Grifos de cocina perfectos para una hermosa cocina contemporánea
-seo_description: "¿Planeando una renovación de la cocina? Vea los productos populares
-  y encuentre el mejor grifo para la cocina contemporánea."
+seo_title: Cocinas Modernas - Elija Su Grifo De Cocina Perfecto
+seo_description: "¿Te gustan las cocinas modernas? \U0001F3E1 ¿Qué accesorios de cocina
+  son los más funcionales? \U0001F449 Aprende a amueblar la cocina de tus sueños."
 main_keywords:
-  - grifos de cocina
-  - grifo de la cocina
-  - fregadero de la cocina
-  - ideas para la cocina
-  - grifo del fregadero
-  - accesorios de cocina
-  - grifo del fregadero de la cocina
-  - los artefactos de luz de la cocina
+- grifos de cocina
+- grifo de la cocina
+- fregadero de la cocina
+- ideas para la cocina
+- grifo del fregadero
+- accesorios de cocina
+- grifo del fregadero de la cocina
+- los artefactos de luz de la cocina
 date: 2020-01-07T11:00:00.000+00:00
-update_date: 2020-01-07T11:00:00.000+00:00
-title: Grifos de cocina perfectos para una hermosa cocina contemporánea
-small-intro: Hay muchos tipos de grifos de cocina disponibles en el mercado.
-intro: Hay muchos tipos de grifos de cocina disponibles en el mercado. Se diferencian
-  en tamaño, hilos, funciones y lo más importante - estilos. Además de su funcionamiento
-  básico, los grifos también sirven con su aspecto, contribuyendo al diseño interior.
-  Un aparato perfecto de este tipo debe coincidir tanto con el diseño como con las
-  necesidades individuales. Antes de elegir el grifo adecuado es bueno conocer todos
-  los tipos y estilos disponibles para su compra.
+update_date: 2020-10-20 10:00:00 +0000
+title: Diseño de cocina moderna. ¿Qué grifo de cocina es el mejor para ti?
+small-intro: "¿Planeas terminar tu casa? ¿No tienes ninguna idea de cómo diseñar tu
+  cocina?"
+intro: "¿Planeas terminar tu casa? ¿No tienes ninguna idea de cómo diseñar tu cocina?
+  Muchos propietarios eligen diseños de cocinas modernas, tanto minimalistas como
+  ricas en accesorios muy interesantes. Los proyectos de cocina pueden parecer completamente
+  diferentes - incluso si se utilizan accesorios similares. ¿Cuál es el elemento obligatorio
+  a utilizar en cada cocina? En primer lugar, los grifos de cocina."
 photo: "/uploads/tap-791172_960_720.webp"
-photo_desc: Un grifo es uno de los elementos más importantes en cada cocina.
-faq: []
+photo_desc: El mercado ofrece una gran variedad de diferentes grifos de cocina.
+faq:
+- question: "¿Qué grifo de cocina elegir?"
+  answer: Al elegir un grifo de cocina, puedes decidir entre un modelo de pared o
+    de cubierta. El primero es perfecto si la tubería se encuentra por encima del
+    fregadero. Una grifería de cocina de cubierta es una opción perfecta para las
+    cocinas modernas, ideal para un fregadero en una isla o junto a la ventana.
 author_name: Magdalena Data-Urban
 author_desc: Gestor de contenidos en Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
@@ -46,73 +51,70 @@ hreflangs:
   link: https://instalguru.cz/blog/perfektni-kuchynske-kohoutky-pro-krasnou-moderni-kuchyn.html
 
 ---
-## Grifos por el método de instalación
+## Equipamiento de cocina: ¿cómo elegir los mejores accesorios de cocina?
 
-La forma de instalación es la cuestión fundamental que debe tenerse en cuenta al elegir un grifo. Hay dos tipos: montados en la pared y montados en la cubierta. Ambos tipos pueden decorar y acentuar el diseño interior. Debido a su construcción, cada uno de estos tipos se ajusta a diferentes condiciones.
+El mercado ofrece una gran variedad de diferentes grifos de cocina. Se diferencian en tamaño, hilo, funciones y, lo más importante, en apariencia. Tenga en cuenta que, aparte de las funcionalidades básicas, el equipo de cocina, los accesorios y la grifería juegan un papel muy importante en el diseño de la habitación. Los grifos modernos para cocinas deben coincidir perfectamente con el estilo de decoración interior, así como con sus necesidades individuales. Al elegir los accesorios de cocina, es bueno comprobar las últimas tendencias.
 
-## Grifo mural clásico
+## Los grifos de cocina modernos - presta atención al método de instalación
 
-Los grifos de pared sólo pueden instalarse si las tuberías que suministran el agua se colocan encima del fregadero. Los grifos de este tipo suelen tener dos asas. Los grifos con manijas en forma de X son bastante populares recientemente. Este diseño representa la elegancia clásica con un rastro de estilo contemporáneo. Los grifos murales se ven mejor en los arreglos tradicionales.
+¿Las cocinas modernas sólo usan grifos de fregadero de formas inusuales? No necesariamente. Como habrán notado, los clásicos grifos de cocina siguen siendo populares. Es particularmente útil si se decide por un diseño de cocina en particular, como el retro. Si te preguntas cómo elegir una grifería de cocina para este y otros estilos, tienes dos opciones. Puede elegir entre una grifería de cocina de montaje en la pared y en la cubierta. ¿Cuáles son los rasgos característicos y los beneficios de este tipo de equipamiento? ¿Cómo se implementa en las cocinas modernas?
 
-{:.distinction.distinction-quotation.distinction-negative}
+### Un grifo de cocina de pared
 
-Si la cocina está diseñada en estilo vintage, elegir grifos "retro" que estén hechos para parecerse a los de los años treinta podría ser una buena idea.
+Los grifos de pared sólo pueden instalarse si las tuberías que suministran el agua se colocan encima del fregadero. Los grifos como este suelen tener dos manijas. Otro tipo - los grifos de cocina con manijas en forma de X han sido muy populares recientemente. ¿Siguen siendo estos accesorios de cocina adecuados para interiores de diseño clásico? Un grifo mural puede ayudar a preservar el espíritu clásico y al mismo tiempo introducir un toque de originalidad. Las griferías murales se ven mejor en los interiores tradicionales. También suelen instalarse en cocinas modernas amuebladas en estilo retro, donde se pueden utilizar grifos que se han diseñado para parecerse a los de los años treinta.
 
-## Los grifos de la cubierta
+### Grifos de la cubierta
 
-Los grifos de la cubierta suelen estar montados directamente en el mostrador del fregadero de la cocina. Pueden ser instalados cuando las tuberías corren por debajo del nivel de los accesorios sanitarios. Uno de los modelos más populares de este tipo es el grifo de una sola manija. Se ajusta a muchos diseños contemporáneos, incluyendo islas de cocina y fregaderos que dan a las ventanas.
+Los grifos de la cubierta pueden ser instalados cuando las tuberías corren por debajo del nivel de los accesorios sanitarios. Los grifos de una sola manija para el fregadero son los clásicos representantes de este grupo. ¿Cómo usarlos en las cocinas modernas? Grifos como este son perfectos para diseños con una isla de cocina o fregaderos instalados por la ventana.
 
-## Los tipos de caños de los grifos de la cocina
+## ¿Cómo diseñar una cocina? Elija el caño del grifo de la cocina correcto
 
-El caño es el componente más importante de un grifo de cocina. Aparte de sus cualidades visuales, juega un papel importante en el funcionamiento de todo el aparato. El mejor caño es el que está diseñado específicamente para las necesidades de uno. Un producto cuidadosamente elegido debe ser cómodo de usar, facilitando las actividades diarias.
+Una cocina moderna debe ser, ante todo, funcional. Este criterio está determinado por el equipo como un grifo de cocina, específicamente - su caño. Los elementos fijos estándar se están volviendo cada vez más obsoletos. Recientemente, los accesorios de cocina más inusuales se han convertido en una elección más general.
 
-Los fabricantes ofrecen los siguientes tipos de caños:
-
-{:.list.list-positive}
-
-* de la retirada,
-* flexible,
-* ...que se rotan,
-* arreglado.
+¿A qué hay que prestar atención cuando se elige un equipo de cocina de este tipo - cómo elegir un buen grifo de cocina? Como han dicho muchos fabricantes, el mejor caño de cocina debe ajustarse perfectamente a las necesidades particulares del usuario. Un producto cuidadosamente elegido puede hacer la vida más fácil y simplificar las tareas diarias. El mercado ofrece grifos de cocina con tres tipos de caño para elegir: extraíble, flexible y giratorio.
 
 ![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
 
-## Grifo extraíble
+### Un grifo extraíble
 
-Las últimas tendencias en el diseño de cocinas incorporan grifos extraíbles colocados bajo una ventana. Tal aparato es muy útil y funciona bien en todas las cocinas. Un grifo de este tipo puede montarse con un fregadero de una sola cubeta, así como con fregaderos de doble cubeta. El caño extraíble hace que llenar incluso la olla más grande sea muy conveniente. También es de gran ayuda para actividades como la limpieza del fregadero, enjuagar verduras, llenar un cubo con agua sin necesidad de ponerlo en el fregadero. La mayoría de los grifos de este tipo tienen dos patrones de chorro para fijar - el agua puede ser concentrada o rociada. Los chorros pueden tener además funciones de ahorro de agua y aireadores.
+Las tendencias recientes en el diseño de cocinas modernas han incorporado opciones interesantes en cuanto a los grifos de la cocina. Una de ellas - un grifo telescópico extraíble colocado bajo una ventana. Es un aparato de cocina altamente funcional. Este modelo puede instalarse tanto en un solo cuenco, como en un doble cuenco de fregadero.
 
-## Manguera de púas flexibles
+Un caño extraíble permite llenar cada uno, incluso la olla más grande, llegar a todos los rincones del fregadero al limpiar, enjuagar a fondo los alimentos, llenar un cubo con agua sin necesidad de ponerlo en el fregadero. La mayoría de los grifos de cocina con un caño extraíble tienen dos opciones para el patrón de flujo. El agua puede ser enfocada o rociada. Los picos también pueden tener funciones de ahorro de agua y estar equipados con aireadores.
 
-Otro tipo de grifo de creciente popularidad es el de caño flexible. Es similar al grifo extraíble, permite dirigir el chorro de agua en cualquier dirección. También facilita el llenado de grandes platos. Aparte de la funcionalidad, que es la característica más importante, los grifos flexibles también tienen un aspecto magnífico. Están disponibles en una amplia gama de colores, lo que ayuda a encajar en el estilo de una cocina contemporánea. Los modelos en colores lisos y neutros se ven muy elegantes en las cocinas tradicionales. La mayor ventaja de este tipo de grifos es el hecho de que pueden ser ajustados a gusto. Su flexibilidad permite darles forma libremente.
+### Un grifo de cocina flexible
 
-## Grifos giratorios y fijos
+Similar a un grifo extraíble, los accesorios flexibles permiten llevar el chorro de agua directamente a donde se quiera, y llenar de agua las ollas y platos altos. Además de ser funcional, que es la característica más importante en la cocina, los grifos con un caño flexible también tienen un aspecto increíble.
 
-Los grifos que se fijan en un lugar y los que se pueden rotar son los productos más comúnmente elegidos. Sus principales características son el diseño clásico y neutro. Son definitivamente menos convenientes que los grifos flexibles y extraíbles. Su mayor ventaja es el precio, estos modelos son los más baratos.
+Los picos flexibles están a menudo disponibles en colores inusuales. Es una oportunidad perfecta para las cocinas modernas. También hay modelos en colores lisos y neutros: blanco y negro, que pueden hacer que la cocina se vea elegante y con clase. La mayor ventaja de los caños flexibles, sin embargo, es el hecho de que pueden ser ajustados a cualquier forma que se adapte a los gustos individuales. Estos aparatos son lo suficientemente flexibles para crear su propia y única forma.
 
-## Materiales utilizados para los grifos
+### El caño de un grifo de cocina, ¿fijo o giratorio?
 
-El grifo de la cocina es uno de los elementos más visibles en todas las cocinas. Teniendo esto en cuenta, vale la pena elegir un producto que no sólo sea funcional, sino también atractivo, para que se ajuste a todo el diseño.
+Los grifos de caño fijo pertenecen a los aparatos de cocina más básicos. Son típicamente clásicos y de aspecto sencillo. Sin embargo, su funcionalidad es mucho peor que la de los grifos extraíbles o flexibles. Un grifo giratorio podría ser un buen compromiso entre las dos opciones. La mayor ventaja, en este caso, es el menor costo de los modelos más simples. Sin embargo, se utilizan raramente en las cocinas modernas.
 
-Hay muchos grifos hechos de varios materiales disponibles en el mercado. El mejor material es el latón. Es resistente a los daños físicos, a la corrosión, a los productos químicos y a los residuos de incrustaciones. La durabilidad no es la única ventaja del latón - también se ve muy bien. Lo que es más, la elegante apariencia de este metal es una cualidad duradera. Aunque hay sustitutos más baratos para los modelos de grifos que están hechos de plástico, nunca serán tan fuertes y robustos como el latón.
+## Cocinas modernas - un material de buena calidad de un grifo es esencial
 
-La mayoría de los grifos de latón están cubiertos con una capa de cromo, que tiene un aspecto muy elegante y además protege la superficie. Gracias a su aspecto clásico, este tipo de grifo de cocina se adapta a cualquier diseño interior.
+El grifo de la cocina suele estar colocado en un lugar visible, por lo que se recomienda elegir un elemento agradable a la vista que complemente el diseño de la habitación.
 
-Además del cromo, los grifos de cocina también están disponibles en muchos otros colores. Por eso debería ser muy fácil encontrar un aparato con colores que hagan juego con los muebles, las paredes u otros aparatos. Los grifos de cocina negros son recientemente una opción muy popular. Este color funciona perfectamente para las cocinas de estilo contemporáneo o industrial. El grifo blanco, por otro lado, es una elección perfecta para las cocinas de estilo escandinavo o inglés. Otro tipo que se hace cada vez más popular son los grifos de latón sin la capa de cromo. Se adaptan a interiores elegantes y de estilo glamoroso.
+Hay muchos grifos hechos de diversos materiales disponibles en el mercado. El latón es uno de los metales más populares utilizados en las cocinas modernas. Es resistente a los daños físicos, a la corrosión, a los productos químicos y a los residuos de incrustaciones. Además de la durabilidad, los grifos de latón mantienen un aspecto elegante e impecable durante largos años.
 
-![](/uploads/1c5d4ea983f142df887e5efbe1dae5a3.jpg)
+También hay sustitutos muy interesantes disponibles en el mercado, equipados con piezas de plástico. Aunque no siempre son tan impresionantes como los elementos de latón. Sin embargo, son bastante duraderos, y cada cocina moderna que los use se verá muy interesante.
 
-## Funcionalidad de los grifos
+En la mayoría de los casos, los grifos de cocina están cubiertos con una capa de cromo, lo que les da un aspecto elegante y una protección adicional. Este tipo de equipamiento de cocina es perfecto para cada estilo de diseño interior. Incluso si eventualmente se aburre con su cocina moderna y cambia la decoración - el grifo siempre encajará en el interior.
 
-Antes de elegir el grifo correcto es importante considerar la forma en que se va a utilizar. Los productos disponibles incluyen los tradicionales grifos de una o dos manijas, así como los innovadores y muy prácticos grifos de cocina sin contacto. Estos últimos son inventos bastante innovadores. Estos grifos se activan mediante un sensor de infrarrojos que detecta el movimiento.
+### Cocinas modernas - ¿qué además del cromo?
 
-{:.distinction.distinction-quotation.distinction-positive}
+Los grifos de cocina en varios colores son una buena alternativa para los elementos de cromo brillante. Pueden adaptarse fácilmente al color de los muebles, paredes u otros accesorios, instalaciones y electrodomésticos de la habitación.
 
-Las mayores ventajas de estos dispositivos son la higiene, la economía, la desinfección térmica, la fácil instalación y el diseño moderno. Los grifos sin contacto son perfectos para las personas que valoran la funcionalidad y el aspecto moderno.
+Los grifos de cocina negros han sido una opción muy popular recientemente. Este color funciona perfectamente para las cocinas modernas, así como para los interiores de estilo industrial. Los accesorios de cocina negros son muy universales, gracias a los cuales pueden ser utilizados en la mayoría de los espacios. Un delicado grifo de cocina blanco, por otro lado, es perfecto para un diseño interior de estilo escandinavo o inglés tradicional.
 
-## Funciones adicionales
+## Equipo de cocina - elija la tecnología moderna
 
-La mayoría de los grifos contemporáneos utilizan filtros de agua especialmente diseñados para purificar el agua de bacterias y sustancias tóxicas. Un grifo con filtro es una buena elección para aquellos que valoran la seguridad y la higiene.
+Cuando elija un grifo, piense en la forma en que se va a utilizar. En el mercado se pueden encontrar grifos de cocina tradicionales de una o dos manijas, así como soluciones más innovadoras y prácticas. Esta última implica un grifo sin contacto. Es un equipo de cocina realmente innovador. Se activa mediante un sensor de infrarrojos, que detecta el movimiento de una mano o un plato que se coloca cerca de ella. Los mayores beneficios de un grifo de este tipo son: el más alto nivel de higiene, la desinfección térmica, la instalación fácil y rápida, y un diseño moderno. Un grifo sin contacto es una opción perfecta para cualquiera que ame la idea de combinar el más alto nivel de funcionalidad y una apariencia a la moda. Estas soluciones son cada vez más populares en las cocinas modernas.
 
-Otra característica útil para un grifo de cocina es el calentador de agua. Tal aparato garantiza que el agua esté siempre caliente.
+## Accesorios de cocina - funcionalidad por encima de todo
 
-Un grifo es uno de los elementos más importantes en toda cocina. Es importante elegir cuidadosamente este aparato para asegurarse de que satisface todas sus necesidades. El grifo de la cocina no sólo debe funcionar correctamente sino que también debe ser una decoración atractiva.
+La mayoría de los grifos de cocina contemporáneos utilizan filtros especialmente diseñados para purificar el agua de bacterias y sustancias tóxicas. Es un elemento absolutamente esencial para cualquier diseño de cocina moderna. Un grifo con filtro de agua es muy recomendable para todos los que valoran la seguridad y la higiene.
+
+Otra característica útil que se utiliza a menudo en los grifos de cocina es un calentador de agua. Es un aparato gracias al cual ya no hay que preocuparse por el agua caliente.
+
+El diseño de las cocinas modernas combina la funcionalidad y la estética. Además, las modernas tecnologías utilizadas en el equipamiento de una cocina pueden ayudar a disminuir el consumo de agua. Por esta razón, es bueno seguir las inspiraciones publicadas por los expertos, gracias a las cuales se puede crear una cocina perfecta.
