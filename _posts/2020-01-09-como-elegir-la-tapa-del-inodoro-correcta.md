@@ -1,31 +1,32 @@
 ---
 layout: post
-seo_title: Eligiendo la tapa del inodoro. Los asuntos más importantes
-seo_description: Elegir el asiento del inodoro correcto puede no ser tan simple como
-  parece. Hay varios parámetros a los que debes prestar atención.
+seo_title: 6 Consejos Sobre Cómo Elegir El Asiento Del Inodoro Correcto
+seo_description: "¿Qué tamaño debe tener el asiento del inodoro? \U0001F6BD ¿Qué parámetros
+  son los importantes? \U0001F44C Revisa los consejos y elige el mejor asiento de
+  inodoro."
 main_keywords:
-  - asiento del inodoro
-  - Asiento de inodoro de bidé
-  - el elevador del asiento del inodoro
-  - asiento de inodoro elevado
-  - fundas para el asiento del inodoro
-  - tamaños de los asientos de los inodoros
-  - el mejor asiento de baño
-  - cerrar lentamente el asiento del inodoro
+- asiento del inodoro
+- Asiento de inodoro de bidé
+- el elevador del asiento del inodoro
+- asiento de inodoro elevado
+- fundas para el asiento del inodoro
+- tamaños de los asientos de los inodoros
+- el mejor asiento de baño
+- cerrar lentamente el asiento del inodoro
 date: 2020-01-09T11:00:00.000+00:00
-update_date: 2020-01-09T11:00:00.000+00:00
-title: "¿Cómo elegir la tapa del inodoro correcta?"
-small-intro: 'El asiento del inodoro es uno de los elementos más importantes de cualquier
-  inodoro. '
-intro: El asiento del inodoro es uno de los elementos más importantes de cualquier
-  inodoro. Esta parte del aparato garantiza un uso cómodo y una higiene adecuada.
-  Los fabricantes ofrecen juegos completos que contienen todo lo necesario. En algunos
-  casos, sin embargo, elementos como el asiento del inodoro se venden por separado.
-  Elegir el elemento correcto puede ser confuso, ya que tienen varias formas, colores,
-  tamaños y materiales. En este artículo aprenderás a elegir el mejor asiento de inodoro.
-photo: "/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg"
-photo_desc: También puedes comprar el inodoro y el asiento en un solo lugar para asegurarte
-  de que coincidan perfectamente.
+update_date: 2020-10-22 10:00:00 +0000
+title: "¿Cómo elegir la tapa del inodoro correcta? ¿Qué parámetros son importantes?"
+small-intro: "¿Qué deberías saber sobre eso?"
+intro: "¿Estás terminando tu baño? Tienes todo lo que necesitas... ¿esperas de un
+  asiento de inodoro? No es una elección tan simple como parece. Un asiento de inodoro
+  garantiza un uso cómodo y una higiene adecuada cuando se utiliza un inodoro. Los
+  fabricantes ofrecen juegos completos que contienen todo lo necesario. En algunos
+  casos, sin embargo, el asiento del inodoro debe ser comprado por separado. En tal
+  caso, uno debe prestar atención a ciertas cuestiones, como el tamaño, el espacio
+  entre las bisagras, el material y el color. Esos parámetros afectan a la colocación
+  del asiento del inodoro. ¿Qué más se debe saber al respecto? "
+photo: "/uploads/ea3a5a42203c4d0abb190fefa6b52172.jpg"
+photo_desc: Los asientos de inodoro blancos son los más populares.
 faq:
 - question: "¿Cómo se mide el asiento del inodoro?"
   answer: Las cualidades que hay que medir son el ancho y el largo de la taza del
@@ -65,55 +66,91 @@ hreflangs:
   link: https://instalguru.cz/blog/jak-zvolit-spravny-kryt-zachodoveho-prkynka.html
 
 ---
-## Medidas del asiento del inodoro
+## El tamaño del asiento del inodoro, ¿es un aspecto importante?
 
-Una de las cuestiones más importantes a la hora de elegir el asiento del inodoro correcto es su tamaño. Los productores ofrecen varios tipos de inodoros de diferentes formas y tamaños. Por lo tanto, el aspecto más importante al que se debe prestar atención es la longitud y el ancho del asiento. El ancho de las bisagras es igualmente importante - demasiado ancho o demasiado estrecho podría no encajar en el inodoro. Todo el procedimiento es más fácil cuando se reemplaza un asiento de inodoro viejo.
+Uno de los parámetros más significativos a considerar cuando se elige un **asiento de inodoro** es el tamaño. **Los productores ofrecen varios tipos de inodoros**. Por lo tanto, los asientos de inodoro tienen varias longitudes y anchos. El ancho de las bisagras también puede ser importante.
 
-En tal caso, puedes simplemente llevar el asiento viejo a la tienda y mostrárselo a un vendedor. Sin embargo, al elegir un asiento para un nuevo inodoro, es necesario medir cuidadosamente la longitud y el ancho, así como las bisagras del inodoro. También puedes comprar tanto el inodoro como el asiento en un solo lugar para asegurarte de que coincidan perfectamente.
+{:.distinction.distinction-question.distinction-positive}
 
-## El mejor material para el asiento del inodoro, ¿cuál elegir?
+**¿Cómo sabes si el asiento del inodoro está bien?** El problema es definitivamente menos complicado cuando reemplazas el viejo equipo por uno nuevo. Todo lo que necesitas hacer en tal caso es quitar el viejo asiento del inodoro y llevarlo a la tienda, pidiendo al asistente un modelo idéntico. También puedes simplemente medir el espacio entre los tornillos, además de la longitud y el ancho del modelo y comprar uno con los mismos parámetros online.
 
-Los fabricantes ofrecen varias soluciones cuando se trata de materiales para asientos de inodoro. El más utilizado es el polipropileno, a veces llamado plástico blando. Una de sus mayores ventajas es su bajo precio. Los asientos de inodoro hechos de polipropileno son ligeros y bastante elásticos. Sin embargo, también es muy probable que se dañen. Estos asientos de inodoro son fáciles de rayar y romper. Los elementos de polipropileno también pueden perder su forma después de ser usados demasiado intensamente.
+Si compras un asiento de inodoro para un nuevo inodoro, debes medir cuidadosamente la longitud y el ancho, así como las bisagras. También puedes comprar tanto el inodoro como el asiento en la misma tienda para asegurarte de que coinciden perfectamente.
 
-Otro material que se utiliza a menudo para los asientos de inodoro es el plástico duro. Los productos de este tipo son menos propensos a los daños y a la deformación en comparación con los de plástico blando. Una de sus mayores ventajas es la alta resistencia a la decoloración. Es muy fácil de limpiar, lo que reduce la cantidad de tiempo dedicado a la limpieza del baño. Algunos asientos de inodoro hechos de plástico duro contienen partículas de plata añadidas a su estructura. Esto los hace inmunes a las bacterias y los hongos. Es definitivamente uno de los mejores tipos de productos.
+## Asiento del inodoro - modelos no estándar de diferentes tamaños que los productos clásicos?
 
-Si la funcionalidad no es la prioridad principal y el enfoque es más bien en el aspecto y el diseño que encajaría en el baño, los productos de madera o resina podrían ser una mejor opción. Los asientos de resina para inodoro suelen emplear diseños muy decorativos. Su popularidad crece, ya que la resina es bastante resistente a los daños físicos. Los asientos de madera para inodoro, por otro lado, son relativamente nuevos en el mercado. Se ven muy elegantes y con mucho estilo. Desafortunadamente la madera es mucho menos resistente a la suciedad que el plástico. Este material también es favorable a las bacterias. Si el aspecto de la madera es a su gusto, una mejor alternativa podría ser elegir un asiento de plástico que se asemeje a la madera.
+Los asientos de inodoro blancos son los más populares. Es un modelo clásico. En esta gama uno tiene la más amplia elección en cuanto a tamaño y características adicionales. **Si usted está interesado en un asiento de inodoro clásico - no tendrá ningún problema en ajustarlo a sus propias necesidades**. La situación es diferente cuando se trata de modelos no estándar - el rango de los tamaños disponibles puede ser bastante limitado.
 
-Una solución interesante que se ajusta a las tendencias de diseño de la decoración moderna del hogar son los asientos de acero inoxidable para el inodoro. No sólo son altamente resistentes a los daños, sino que también son antibacterianos. Su popularidad crece en espacios públicos como pubs y restaurantes. Debido a su robustez, los asientos de acero inoxidable tienen una buena relación calidad-precio.
+La elección es bastante amplia en cuanto a colores y formas. **Los fabricantes ofrecen asientos de inodoro en al menos varias docenas de colores, también se pueden comprar modelos con estampados interesantes**. No se olvide de los modelos de madera y acero, que pueden ser una interesante decoración en un interior moderno. Un asiento de inodoro como este puede ser limitado en tamaño, tenlo en cuenta si decides comprar uno. Puede que no quepa en un inodoro estándar.
 
-![](/uploads/ea3a5a42203c4d0abb190fefa6b52172.jpg)
+Elegir la forma correcta de un asiento de inodoro podría ser un proceso similar. Los asientos de inodoro ovalados son los más populares, y se adaptan a la mayoría de las tazas de inodoro. Sin embargo, vale la pena señalar que también hay inodoros con formas diferentes. A menudo se puede ver un inodoro redondo o rectangular. Los inodoros delgados también están ganando popularidad.
 
-## Los colores y las formas del asiento del inodoro
+También hay otro grupo de productos, diseñados específicamente para los niños. Se trata de un asiento de inodoro especial con una cubierta adjunta que permite a un niño pequeño usar el inodoro normalmente.
 
-Podría parecer que la elección de colores en los asientos de los inodoros es muy limitada. El color más universal es obviamente el blanco, ya que se ajusta a la mayoría de los inodoros. La paleta de colores, sin embargo, no es tan limitada como parece. Los fabricantes suelen ofrecer asientos de inodoro en al menos varias docenas de colores. Esto también permite comprar modelos con estampados interesantes, aunque su popularidad ha disminuido en los últimos años. También hay productos ya mencionados hechos de madera y acero - esos materiales constituyen por sí mismos una decoración.
+![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
 
-La elección de la forma correcta podría ser un proceso similar. Los asientos de inodoro ovalados son los más populares, ya que se adaptan a la mayoría de las tazas de inodoro. Sin embargo, vale la pena señalar que los inodoros tienen diferentes formas. La popularidad de los inodoros redondos o rectangulares crece - junto con los asientos de inodoro.
+## Un moderno asiento de inodoro
+
+Al elegir el asiento del inodoro, también se puede prestar atención a las tecnologías modernas que facilitan el uso del baño. Una de las características más básicas en este sentido es un asiento de inodoro con el llamado cierre suave, que tiene muchas ventajas.
+
+Esta característica protege al inodoro de los daños que podría causar una tapa que se cae rápidamente. **Un asiento de inodoro de cierre suave es también una protección para los niños pequeños que utilizan el inodoro**. Gracias a ella no hay riesgo de que se aplasten los dedos al usar el baño por su cuenta. En este caso, al igual que en otros modelos, se debe prestar especial atención al tamaño del asiento del inodoro.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-También hay otro grupo de productos, diseñados específicamente para los niños. Tienen formas y colores muy interesantes que animan a los niños a usar el baño. Una buena elección es un modelo con personajes de dibujos animados. Podría ser sorprendente el efecto que se puede lograr gracias a esta solución.
+Un asiento de inodoro de bidé es otra solución bastante interesante. Es un modelo perfecto si tienes poco espacio en el baño pero no quieres renunciar a ciertas comodidades. Sin embargo, los asientos de inodoro de este tipo son una elección rara, y su precio puede ser bastante sorprendente, no necesariamente en el sentido positivo. El tamaño del asiento del inodoro, en este caso, suele estar determinado por un modelo particular de inodoro. Definitivamente funciona mejor si el baño está equipado con él desde el principio.
 
-## Asiento del inodoro - características adicionales
+## ¿Cómo asegurarse de que el tamaño del asiento del inodoro es el correcto?
 
-Al elegir el asiento del inodoro, también se debe prestar atención a las características adicionales que hacen que el uso del baño sea mucho más fácil y agradable. Una de las características básicas y más comúnmente elegidas es el llamado cierre suave. Hay muchas ventajas de este sistema. La más importante es que protege el inodoro de los daños que podría causar la rápida caída de la tapa. Un asiento de inodoro de cierre suave también es una buena idea para los niños pequeños que están aprendiendo a usar el inodoro. Evita que sus pequeños dedos y manos sean aplastados o pellizcados por la tapa.
+¿Quieres sentarte cómodamente en el asiento del inodoro? Piensa en este aspecto al elegir el producto y asegúrate de elegir el tamaño correcto. Puede que no lo parezca, pero hacer coincidir este elemento no es tan fácil, sobre todo teniendo en cuenta las posibilidades ya mencionadas que ofrecen los fabricantes. Cada asiento de inodoro tiene ciertas dimensiones que uno debería conocer, ya que pueden ser de gran ayuda a la hora de elegir el modelo correcto.
 
-Otra solución interesante diseñada específicamente para niños pequeños es el asiento de inodoro de doble tapa. Este tipo de producto contiene dos tapas, una de tamaño normal y otra más pequeña. Si un niño pequeño necesita ir al baño, la pequeña tapa del orinal se abre. Se puede levantar fácilmente en caso de que un adulto use el baño. Sin embargo, este tipo de asiento de inodoro es más difícil de limpiar en comparación con los productos estándar, debido a que es más difícil llegar a los puntos donde se acumulan la suciedad y las bacterias.
+### Un asiento de inodoro - dimensiones para aprender
 
-La última solución, bastante intrigante, es un asiento de inodoro de bidé. Contiene un grifo de bidé unido al asiento. Este modelo es perfecto si tienes poco espacio en el baño pero no quieres renunciar a ciertas comodidades. Sin embargo, los asientos de inodoro de este tipo son una rara elección, quizás debido a su costo, que no es necesariamente el más bajo.
+La longitud es la característica más importante del asiento del inodoro. Se determina desde el punto en que se fija al punto opuesto en el otro lado. La anchura debe medirse en el punto más ancho del asiento del inodoro, más o menos en la mitad de su longitud. También hay un parámetro más - el rango entre los tornillos, a menudo referido como la distancia entre las bisagras. ¿Cómo se mide este parámetro para un asiento de inodoro? Hay puntos característicos en el producto - sólo hay que determinar la distancia entre ellos.
 
-## Instalar el asiento del inodoro
+No es todo cuando se trata de tomar las medidas. Deberías repetir lo mismo en el baño. **Es importante determinar la longitud, el ancho y la distancia entre los tornillos**, especialmente si no tienes un modelo antiguo para comparar y quieres comprar un asiento de inodoro completamente nuevo.
 
-Si ya has elegido el asiento de inodoro perfecto para ti, probablemente deberías aprender a instalar tal elemento. Si tu nueva compra es un reemplazo, deberías quitar el viejo asiento del inodoro. Desatornillar los tornillos puede ser la parte más difícil en este caso, especialmente si el asiento fue usado por mucho tiempo. En caso de cualquier problema, puede tratar de aplicar un producto especial en los tornillos, por ejemplo WD-40. Tenga en cuenta que antes de comenzar la instalación debe limpiar cuidadosamente la superficie.
+{:.distinction.distinction-info.distinction-negative}
 
-Casi todos los tipos de asientos de inodoro hoy en día tienen una instrucción adjunta. Todo lo que necesitas hacer es seguir cuidadosamente cada paso.
+Cada asiento de inodoro puede tener parámetros completamente diferentes, por lo tanto, es importante prestar atención a las dimensiones. Por ejemplo, en un asiento de inodoro estándar la distancia entre las bisagras suele ser de 170 mm, en los modelos de cierre suave - 110-120 mm o 125 mm. Las dimensiones pueden variar según el fabricante y el tipo.
 
-Típicamente la instalación se ve de la siguiente manera:
+## ¿Cómo instalar correctamente un asiento de inodoro?
+
+Si ya has elegido el asiento de inodoro perfecto para ti, probablemente deberías aprender a instalar tal elemento. Si tu nueva compra es un reemplazo, deberías quitar el viejo asiento del inodoro. Desatornillar los tornillos puede ser la parte más difícil en este caso, especialmente si el asiento se ha usado durante mucho tiempo. En caso de cualquier problema, puede tratar de aplicar un producto especial en los tornillos, por ejemplo WD-40. Tenga en cuenta que antes de comenzar la instalación debe limpiar cuidadosamente la superficie.
+
+Casi todos los tipos de asientos de inodoro hoy en día incluyen una instrucción con imágenes. Todo lo que necesitas hacer es seguir cuidadosamente cada paso.
+
+Típicamente, la instalación se ve de la siguiente manera:
 
 {:.list.list-positive}
 
 * poniendo las barras en los llamados elementos de asentamiento y poniendo sellos en ellos,
 * insertando las barras en los agujeros del inodoro y poniendo otro juego de sellos o almohadillas especiales en ellos,
-* ...colocando tornillos de ala,
+* colocando tornillos de ala,
 * poniendo el asiento del inodoro en el medio del inodoro y apretando los tornillos.
 
 Tenga mucho cuidado durante la instalación y asegúrese de no poner demasiada fuerza, especialmente al apretar los elementos. Podría dañar o fracturar la taza del baño.
+
+{:.distinction.distinction-info.distinction-positive}
+
+Un asiento de inodoro con un sistema de un solo clic podría ser una solución más simple - su proceso de instalación es mucho más fácil y rápido, incluso para aquellos que nunca han hecho algo así antes.
+
+## Asientos de inodoro - ¿qué más es importante aparte del tamaño?
+
+El tamaño del asiento del inodoro es una característica crucial que determina la elección. No olvide, sin embargo, que no es el único aspecto de este tipo de equipamiento. Los fabricantes ofrecen varias soluciones cuando se trata del material del que está hecho un asiento de inodoro.
+
+Los modelos más comúnmente elegidos están hechos de polipropileno, a veces llamado plástico blando. Una de sus mayores ventajas es su bajo precio. El polipropileno también es flexible y ligero.
+
+{:.distinction.distinction-quotation.distinction-negative}
+
+Desafortunadamente, esta característica contribuye a una menor durabilidad y vulnerabilidad a varios tipos de daños - rasguños y grietas. Los elementos de polipropileno también pueden perder su forma después de un uso intenso..
+
+Otro material muy utilizado para los asientos de los inodoros es el plástico duro. Los productos de este tipo son menos propensos a daños y deformaciones. Una de sus mayores ventajas es la alta resistencia a la decoloración. Es muy fácil de limpiar, lo que reduce la cantidad de tiempo dedicado a la limpieza del baño.
+
+Para aquellos que aman la funcionalidad, pero también valoran la estética y un buen diseño interior, un **asiento de inodoro hecho de resina o madera** podría ser una mejor opción. El primero permite obtener un producto transparente con elementos decorativos. Los asientos de inodoro de resina son muy resistentes a los daños y son cada vez más populares.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Los asientos de madera para el inodoro son nuevos en el mercado, y se ven muy elegantes.  Desafortunadamente, la madera es mucho menos resistente a la suciedad que el plástico. Este material también es favorable a las bacterias.
+
+Otro tipo de producto de los fabricantes podría encajar en las tendencias modernas de diseño de interiores - asientos de inodoro de acero inoxidable. No sólo son altamente resistentes a los daños, sino que también son antibacterianos. Su popularidad crece en espacios públicos como pubs y restaurantes, donde es importante un **aspecto moderno del inodoro**. Debido a su robustez, los asientos de acero inoxidable para inodoros tienen una buena relación calidad-precio, lo que podría considerarse como otra ventaja.
+
+Si decides antes qué tipo de asiento de inodoro necesitas, elegir el tamaño adecuado debería ser mucho más fácil en el futuro.
