@@ -17,7 +17,8 @@ intro: Alicatar el suelo y las paredes es uno de los métodos más populares par
   un procedimiento rápido y fácil, y puede hacerlo usted mismo. Sólo necesitas aprender
   la información básica sobre cómo colocar las baldosas.
 photo: "/uploads/plytki1.jpg"
-photo_desc: ''
+photo_desc: Aunque la colocación de las baldosas no es muy complicada, es necesario
+  prepararse antes de empezar a trabajar.
 faq:
 - question: Colocar las baldosas del suelo... ¿cómo empezar?
   answer: Al embaldosar el suelo, se debe empezar por preparar todos los materiales
