@@ -73,6 +73,13 @@ fields:
 - name: noindex
   type: boolean
   label: Blokować indexowanie?
+- name: segmenting_tags
+  type: tag_list
+  default: []
+  label: Tagi segmentujące
+  description: Powinny składać się z jednego słowa (ew. kilku rozdzielonych "-").
+    Po dodaniu trzeba przechwycić je w Facebooku Pixela lub innym narzędziu do tworzenia
+    grup odbiorców.
 pages:
 - _posts/2019-07-17-que-tubo-de-gas-es-mejor-el-de-cobre-o-el-de-acero.markdown
 - _posts/2019-07-22-accesorios-de-tuberia-los-accesorios-roscados-y-a-presion-son-diferentes.md
