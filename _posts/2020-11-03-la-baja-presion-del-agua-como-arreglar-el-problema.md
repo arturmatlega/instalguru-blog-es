@@ -40,8 +40,8 @@ hreflangs:
   link: https://instalguru.it/blog/bassa-pressione-dell-acqua-come-risolvere-il-problema.html
 - lang: fr
   link: https://instalguru.fr/blog/basse-pression-de-l-eau-comment-resoudre-le-probleme.html
-- lang: ''
-  link: ''
+- lang: es
+  link: https://instalguru.es/blog/la-baja-presion-del-agua-como-arreglar-el-problema.html
 - lang: cz
   link: https://instalguru.cz/blog/spatny-tlak-vody-v-instalaci-jak-se-vyporadat-s-timto-problemem.html
 noindex: false
