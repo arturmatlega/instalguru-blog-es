@@ -32,7 +32,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Especialista en ventas y marketing en Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/wielorodzinne-budownictwo-mieszkaniowe-jak-ogrzewana-jest-kamienica-lub-bloki.html
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
 noindex: false
 
 ---
