@@ -58,7 +58,7 @@ noindex: false
 ---
 ## ¿Qué es un bidé? ¿Por qué es útil en el baño?
 
-Un bidé es una de las instalaciones del baño. Está hecho de cerámica, y su propósito es lavarse después de usar el baño. Gracias a él, es posible lavar las zonas íntimas en posición sentada sin necesidad de usar la bañera o la ducha.
+Un bidé es una de las instalaciones del baño. Está hecho de cerámica, y su propósito es lavarse después de usar el baño. Gracias a él, es posible lavar las zonas íntimas en posición sentada sin necesidad de usar la bañera o la ducha. test
 
 El bidé permite ocuparse de la higiene personal de forma fácil y rápida. También es una solución ideal para las personas mayores con movilidad reducida, las mujeres embarazadas y las personas que sufren una inflamación de las partes íntimas. Los bidés se están convirtiendo en un equipamiento estándar en todos los baños modernos. Permite mantener la máxima limpieza, sin tener que bañarse varias veces al día, lo cual es muy conveniente.
 
