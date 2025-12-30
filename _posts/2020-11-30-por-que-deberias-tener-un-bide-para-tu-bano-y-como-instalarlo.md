@@ -96,8 +96,6 @@ La distancia mínima entre el trabajador y el bidé es de unos 30 cm. El espacio
 
 Si el bidé está situado junto a la pared, se recomienda colocarlo a unos 30-40 cm de distancia de la pared. Es importante mantener la cantidad adecuada de espacio frente al bidé. Para mayor comodidad, mantenga unos 60 cm de espacio libre delante del elemento.
 
-![](/uploads/bidet2.jpg)
-
 ## ¿Cómo se instala un bidé? ¿Es difícil?
 
 La instalación de un bidé se ve igual que con cualquier otro equipo de baño - y se puede hacer muy rápidamente.
