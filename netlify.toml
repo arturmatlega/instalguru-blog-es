@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "gem install bundler && bundle install && jekyll build"
+  command = "gem install bundler && bundle install && bundle exec jekyll build"
 
 [build.environment]
   NODE_VERSION = "20"
