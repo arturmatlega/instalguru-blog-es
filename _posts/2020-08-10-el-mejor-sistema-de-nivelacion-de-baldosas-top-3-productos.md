@@ -74,8 +74,6 @@ Un sistema de nivelación de azulejos es un **conjunto de elementos gracias a lo
 
 **El uso de un moderno sistema de nivelación de baldosas es una solución perfecta tanto para los profesionales como para los usuarios sin experiencia**. Gracias a este método todo el proceso es mucho más fácil y, lo que es más importante, más rápido. Se estima que un sistema de nivelación de baldosas puede **ahorrar hasta un 50% de tiempo** en comparación con la colocación de baldosas con espaciadores tradicionales.
 
-![¿Qué es un sistema de nivelación de Baldosas?](/uploads/system-poziomowania-plytek-szczypce.jpg "¿Qué es un sistema de nivelación de Baldosas?")
-
 ## ¿Cómo funciona un sistema de nivelación de azulejos?
 
 Un sistema estándar de nivelación de azulejos contiene clips y **cuñas de forma especial que tienen baches característicos en la superficie**. Es importante que uno use ambos elementos para lograr los resultados esperados.
@@ -96,8 +94,6 @@ Tengan en cuenta que no importa qué tipo de azulejos usen. Se pueden hacer de e
 * grés,
 * granito,
 * piedra.
-
-![¿Dónde puedes usar un sistema de nivelación de azulejos?](/uploads/system-poziomowania-plytek-top3.jpg "¿Dónde puedes usar un sistema de nivelación de azulejos?")
 
 ## ¿Vale la pena un sistema de nivelación de azulejos? Ventajas de la solución
 
@@ -121,13 +117,9 @@ Las terminaciones ligeramente levantadas a ambos lados de un clip se colocan deb
 
 Es común que un juego así también contenga alicates especiales. Gracias a ellas, el **ajuste del sistema y sus elementos es mucho más rápido** y no requiere poner ninguna fuerza en él.
 
-![Un sistema de nivelación de azulejos con clips en forma de ancla](/uploads/system_poziomowania_ranking.jpg "Un sistema de nivelación de azulejos con clips en forma de ancla")
-
 ### Un sistema de nivelación de azulejos con clips y cuñas estándar
 
 Una de las opciones más utilizadas es un sistema de nivelación de azulejos que utiliza los **clásicos clips y cuñas**. En este caso, un clip se asemeja a una ventana con una base en la parte inferior. La ventana es simplemente el espacio para una cuña. Es diferente al sistema anterior - la cuña debe ser deslizada en el medio del clip. Gracias a los característicos baches se puede ejercer la máxima presión sobre la cuña y así nivelar perfectamente las baldosas.
-
-![Un sistema de nivelación de azulejos con clips y cuñas estándar](/uploads/system_poziomowania_ranking_2.jpg "Un sistema de nivelación de azulejos con clips y cuñas estándar")
 
 ### Un sistema de nivelación de azulejos reutilizable
 
@@ -138,8 +130,6 @@ Este tipo de sistema de nivelación de baldosas utiliza dos elementos también. 
 {:.distinction.distinction-info.distinction-negative}
 
 No es una solución totalmente perfecta. En este caso hay que usar espaciadores cruzados de azulejos adicionales, lo que lleva más tiempo y puede ser difícil para los usuarios inexpertos. Además, después de nivelar los azulejos, los clips tienen que ser retirados después de unas horas. Podría arruinar el nivel de los azulejos.
-
-![Un sistema de nivelación de azulejos reutilizable](/uploads/system_poziomowania_ranking_3.jpg "Un sistema de nivelación de azulejos reutilizable")
 
 ## ¿Un sistema de nivelación de azulejos, de un solo uso o reutilizable?
 
