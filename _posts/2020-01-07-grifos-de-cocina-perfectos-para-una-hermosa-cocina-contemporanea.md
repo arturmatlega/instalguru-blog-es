@@ -73,8 +73,6 @@ Una cocina moderna debe ser, ante todo, funcional. Este criterio está determina
 
 ¿A qué hay que prestar atención cuando se elige un equipo de cocina de este tipo - cómo elegir un buen grifo de cocina? Como han dicho muchos fabricantes, el mejor caño de cocina debe ajustarse perfectamente a las necesidades particulares del usuario. Un producto cuidadosamente elegido puede hacer la vida más fácil y simplificar las tareas diarias. El mercado ofrece grifos de cocina con tres tipos de caño para elegir: extraíble, flexible y giratorio.
 
-![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
-
 ### Un grifo extraíble
 
 Las tendencias recientes en el diseño de cocinas modernas han incorporado opciones interesantes en cuanto a los grifos de la cocina. Una de ellas - un grifo telescópico extraíble colocado bajo una ventana. Es un aparato de cocina altamente funcional. Este modelo puede instalarse tanto en un solo cuenco, como en un doble cuenco de fregadero.
