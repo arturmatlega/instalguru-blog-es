@@ -67,8 +67,6 @@ Hay muchas razones para que un grifo gotee. La más común, especialmente en los
 
 Los elementos de goma protegen el dispositivo contra las fugas, pero se desgastan después de un tiempo. Como resultado, pierden su capacidad de estanqueidad. Son productos de una longevidad limitada, especialmente si se usan intensamente. Puedes resolver el problema de un grifo con fugas tú mismo. El reemplazo de la arandela es sólo una cuestión de varios minutos de trabajo y un costo muy bajo. Asegúrate de obtener los conocimientos básicos sobre ello, para que no te encuentres con ningún problema.
 
-![](/uploads/washer2.jpg)
-
 ## ¿Cómo se reemplaza una vieja arandela de grifo?
 
 Independientemente de si es un fregadero de cocina o una bañera, la sustitución de un arandela de grifo siempre implica la misma acción. Necesitas usar un pequeño elemento: un anillo de sellado. Antes de su instalación, determine el grosor y el tamaño. Esos parámetros deciden si el nuevo elemento encaja y como resultado, si el grifo funciona correctamente.
@@ -105,8 +103,6 @@ Si te preguntas cómo reemplazar un arandela de grifo, tenemos una guía univers
 * Desenrosque y desmantele todo el mango. Se puede hacer fácilmente sin usar ninguna herramienta adicional.
 * Luego, quita el tallo de la manga - para ello, puedes usar una llave de tenedor o una llave inglesa. Gracias a esto, tienes un acceso completo al cartucho, para que puedas examinar la arandela del grifo. Si el elemento está desgastado o dañado, reemplácelo: quite el tornillo, saque el anillo viejo y reemplácelo por uno nuevo. ¿Qué tipo es el mejor? Puedes elegir una arandela de silicona - blanca o negra.
 
-![](/uploads/washer3.jpg)
-
 ## ¿Cómo arreglar un grifo mezclador?
 
 Arreglar un grifo mezclador se parece bastante a una reparación de grifo estándar. La principal diferencia es la construcción, que de hecho afecta al tiempo empleado en la actividad.
@@ -130,8 +126,6 @@ Al reemplazar una lavadora de grifo, también puedes limpiar elementos como el c
 Un grifo que gotea podría ser un signo de un mal funcionamiento del caño. La reparación es bastante simple y fácil en este caso también, puedes hacerlo tú mismo. Sólo tienes que quitar los tornillos de instalación y retirar cuidadosamente el caño, asegurándote de no dañar el fregadero. Luego, retire la vieja arandela. Inserte los nuevos elementos en su lugar. Si lo has hecho bien, vuelve a colocar el caño y aprieta el tornillo para que el grifo no se mueva de un lado a otro.
 
 ¿Te preguntas qué producto es el mejor en este caso? Una junta tórica de goma para el caño es perfecta. Está disponible en dos tamaños estándar: 1/2'', 16 mm, 12 mm o 3/4'', 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## ¿Cuál es el costo de un reemplazo de la arandela de grifo?
 
