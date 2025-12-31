@@ -71,8 +71,6 @@ También podría encontrar limitaciones sobre el número permitido de tales inst
 
 Además de los glorietas, las restricciones y permisos de construcción se refieren también a otros tipos de instalaciones como cobertizos para servicios públicos y garajes independientes.
 
-![](/uploads/gazebo2.jpg)
-
 ## ¿Cómo se construye un gazebo? ¡Empieza desde los cimientos!
 
 Unos cimientos estables son uno de los aspectos más importantes a la hora de construir un gazebo. La instalación debe ser resistente a las condiciones climáticas, como los fuertes vientos.
@@ -90,8 +88,6 @@ Como afirman los especialistas, los productos a base de resina o aceite de linaz
 {:.distinction.distinction-info.distinction-negative}
 
 Aunque el barniz es generalmente perfecto para la protección de la madera, no se recomienda usarlo en un gazebo. Ciertas plantas pueden usar el gazebo como base para su posterior crecimiento. Si la superficie es demasiado resbaladiza, la planta no es capaz de adherirse y su crecimiento se ve obstaculizado.
-
-![](/uploads/gazebo3.jpg)
 
 ## Construir un gazebo - ¿qué tipo de cubierta para elegir?
 
