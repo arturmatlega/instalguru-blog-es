@@ -78,8 +78,6 @@ La instalación estándar de azulejos en una pared o suelo requiere el uso de un
 
 Tanto las paredes como el suelo son un elemento ornamental muy importante en un interior. Gracias a la correcta instalación de los azulejos, la habitación puede parecer elegante y estética, **por lo que se debe prestar especial atención a aspectos como la forma y el patrón de los azulejos**. Independientemente de esos parámetros, la colocación de las baldosas puede parecer bastante diferente. Aprenda los métodos más populares para la instalación de azulejos y baldosas. Gracias a ellos, su interior sorprenderá a todos.
 
-![](/uploads/plytki2.jpg)
-
 ### How to lay square tile?
 
 La baldosa cuadrada es uno de los tipos más comunes disponibles en el mercado. No es de extrañar entonces que sea elegido por muchos propietarios.
@@ -124,8 +122,6 @@ Colocar baldosas con un moderno sistema de nivelación es un método mucho más 
 
 Un sistema de nivelación de azulejos es también una ayuda perfecta para los especialistas. ¿Cuáles son sus ventajas para un profesional? **La colocación de las baldosas puede llegar a ser el doble de rápida de lo habitual. Gracias a esto, uno puede ser capaz de hacer el doble de trabajo, y como resultado - ganar el doble de dinero.**
 
-![](/uploads/plytki3.jpg)
-
 ## ¿Cómo colocar las baldosas? Una guía rápida paso a paso
 
 La preparación antes de la **colocación de las baldosas** debe incluir la recolección de todas las herramientas necesarias y la comprobación de los embalajes con baldosas. Si todo está bien, puede colocar todos los elementos en el suelo.
@@ -141,8 +137,6 @@ Lechada. Después de que el mortero se seca, hay que deshacerse del sistema de n
 ## ¿Cómo colocar el azulejo sin lechada?
 
 Muchos propietarios sueñan con un piso perfectamente parejo sin espacios sin estética. **Un suelo impecable y liso hace que la habitación parezca elegante y minimalista, y crea la impresión de un espacio más grande**. Pero, ¿es posible colocar baldosas de manera que los espacios entre ellas sean invisibles? Aparentemente, nada es imposible hoy en día. Sin embargo, colocar las baldosas de esta manera podría suponer un cierto riesgo. Compruébelo antes de decidir una solución particular.
-
-![](/uploads/plytki4.jpg)
 
 ### ¿Cuál es el propósito de la lechada?
 
