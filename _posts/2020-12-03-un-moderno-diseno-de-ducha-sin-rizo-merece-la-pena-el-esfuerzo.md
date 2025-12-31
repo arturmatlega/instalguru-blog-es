@@ -62,8 +62,6 @@ El drenaje lineal es un tipo de drenaje en forma de una larga rendija en el suel
 
 Una ducha sin rizo con este tipo de desagüe crea un montón de posibilidades para el diseño interior, ya que ocupa poco espacio y puede ser ubicado en cualquier lugar que el usuario desee. Además, se puede elegir entre un desagüe lineal clásico con un diseño simple y un desagüe lineal decorado con tallas inusuales.
 
-![](/uploads/curbless2.jpg)
-
 ## ¿Es segura una ducha sin rizo para el baño?
 
 Una ducha sin rizo es una solución muy práctica; además, es completamente inofensiva para el baño, por lo que no hay que preocuparse por la posibilidad de que se inunde.
@@ -89,8 +87,6 @@ Los puestos de ducha sin rizo son ofrecidos por muchos fabricantes. Pero la falt
 Se pueden conseguir tales paredes a un precio muy bajo, aunque también hay modelos muy caros. El rango de precios de las puertas de las duchas es similar.
 
 Otra solución es una cabina de ducha que sólo tiene una o dos paredes. Puede ser una solución más barata, pero como siempre, todo depende del fabricante, el material y el modelo en particular. Típicamente, un precio más alto significa también un mayor nivel de confort y estética de la ducha.
-
-![](/uploads/curbless3.jpg)
 
 ## ¿Cuáles son las ventajas de una ducha sin rizo
 
