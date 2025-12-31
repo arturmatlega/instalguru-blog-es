@@ -77,8 +77,6 @@ Dependiendo del tipo de su bañera con faldón, va a necesitar diferentes acceso
 
 Además, si te interesan los tableros de yeso, necesitarás pistas de metal C y U, listones de madera, taladro eléctrico y tijeras. Si estás haciendo un marco de bañera con bloques de hormigón, necesitas mortero de aplicación fina o adhesivo para hormigón, membrana líquida, una lima fina y gruesa y herramientas básicas de albañilería.
 
-![](/uploads/tub2.jpg)
-
 ### Una bañera con faldón - una guía de instalación paso a paso
 
 Si quieres instalar una bañera con faldón tú mismo, debes seguir los consejos de los especialistas. Mira los 8 pasos de abajo - ellos te ayudarán con tu trabajo.
@@ -113,8 +111,6 @@ El agujero debe ser lo suficientemente grande como para maniobrar las herramient
 ## Bañera con faldón - las tendencias más populares del 2020
 
 ¿Te preguntas cómo se hace una falda para la bañera? ¿Estás buscando ideas sobre cómo renovar tu baño? Hay muchas soluciones en el mercado. Presta atención a las tendencias más populares del 2020, para que tu interior esté siempre actualizado. Usando una bañera con faldón aparentemente insignificante, podrías conseguir un resultado completamente diferente. Tenga en cuenta que una falda de bañera fabricada, también conocida como universal, está fuera de moda. Podría haber sido rápida y fácil de instalar, sin embargo la estética no era la mejor. Ha sido reemplazado por soluciones mucho más atractivas.
-
-![](/uploads/tub3.jpg)
 
 ### Un faldón de bañera, que combina perfectamente con los elementos y accesorios de cerámica.
 
