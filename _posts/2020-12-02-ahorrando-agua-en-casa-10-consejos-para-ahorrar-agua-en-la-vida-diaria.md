@@ -69,8 +69,6 @@ Si estás pensando en cómo ahorrar agua en la vida diaria, es posible en muchos
 
 ¿Cómo ahorrar agua diariamente cuando se usa agua corriente? ¿Es posible en absoluto? Por supuesto, no hay que lavar los platos con agua corriente constantemente. Puedes instalar un grifo ahorrador de agua con un caño móvil, gracias al cual podrás dirigir el chorro de agua exactamente donde lo necesites.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 ¿Usas un lavaplatos? No hay problema - ahorrar agua es posible en este caso también. Sólo tienes que encenderlo cuando esté completamente cargado.
@@ -110,8 +108,6 @@ Si te preguntas cómo ahorrar agua en la vida diaria al lavar la ropa, es simila
 ### Ducharse en lugar de bañarse, es un método efectivo de ahorro de agua.
 
 ¿Cómo ahorrar agua en la vida diaria al tomar un baño? En lugar de bañarse, elija la ducha. Para llenar una bañera, se necesitan aproximadamente 200 litros de agua. Cuando se toma una ducha, se usan unos 50 litros. Piensa en cuánto puedes ahorrar si hay 3 o 4 personas viviendo en un hogar.
-
-![](/uploads/watersaving3.jpg)
 
 ### ¿Cómo ahorrar agua en la ducha? Utiliza los modernos aparatos
 
