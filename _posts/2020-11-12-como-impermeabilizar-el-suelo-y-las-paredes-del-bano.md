@@ -70,8 +70,6 @@ Independientemente de la habilidad con la que se colocaron las baldosas, siempre
 
 Hay dos tipos de impermeabilización de la superficie que uno podría realizar en una habitación. La cuestión principal es asegurar la superficie antes de colocar los azulejos. Los productos utilizados en esta etapa protegerán la estructura del edificio contra la intrusión del agua. La impermeabilización de las baldosas es otro problema. Gracias a sustancias especiales, el agua permanecerá en la baldosa, y puede ser fácilmente eliminada por medio del sistema de ventilación.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Impermeabilizar un baño, ¿qué secciones de las habitaciones?
 
 Típicamente, cada baño tiene dos zonas: húmeda y seca. La primera básicamente involucra a toda la habitación. Estos son los lugares que probablemente tengan contacto con el agua, que puede salpicar en todas partes - cuando se realizan actividades ordinarias y cotidianas.
@@ -89,8 +87,6 @@ La impermeabilización de los baños se puede hacer con tres tipos de productos,
 * **Membrana impermeabilizante líquida** - está basada en resina sintética, gracias a la cual proporciona una protección perfecta. El producto es muy fácil de usar - sólo hay que mezclarlo y cubrir una zona determinada con él, usando por ejemplo un rodillo o pincel especial. La primera capa se puede colocar libremente, mientras que la siguiente debe ser perpendicular a ella. La mayor ventaja de la membrana es su versatilidad. Se puede utilizar tanto para superficies de hormigón, como para revoques de cemento y placas de yeso. Este tipo de protección es muy recomendable para cualquiera que valore su tiempo - la membrana se seca rápidamente, por lo que se puede empezar inmediatamente a colocar las baldosas en el baño.
 * **Compuestos de sellado** - es una alternativa perfecta a una membrana líquida. Está hecha de mortero de cemento y resina sintética. Este tipo de material tiene una estructura mucho más densa que la membrana anteriormente mencionada. Se utiliza típicamente para asegurar las superficies minerales, pero los fabricantes también ofrecen productos para el revestimiento de paneles o piedras. El compuesto debe aplicarse en forma cruzada, en dos capas. No se puede utilizar para interiores con suelo radiante.
 * **Compuestos impermeabilizantes a base de cemento** - también un material muy eficaz, utilizado no sólo para los baños, sino también en balcones, patios y para proteger los cimientos. El material es muy duradero, resistente a las heladas y flexible.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## Cómo impermeabilizar un baño - una guía paso a paso
 
