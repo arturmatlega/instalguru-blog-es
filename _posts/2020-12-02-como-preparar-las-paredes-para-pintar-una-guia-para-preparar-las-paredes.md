@@ -68,8 +68,6 @@ En la mayoría de los casos, es necesario imprimar las paredes antes de pintar. 
 
 ¡Recuerda! Es necesario utilizar pintura de imprimación si la capa vieja ha sido raspada o si la pared ha sido reparada, por ejemplo, enyesando pequeñas hendiduras como resultado de un daño mecánico.
 
-![](/uploads/priming2.jpg)
-
 ## ¿Cómo se puede comprobar si es necesario aplicar la imprimación de pintura?
 
 Es fácil comprobar si las paredes necesitan imprimación, hay dos métodos. Se diferencian entre sí por el hecho de que miden diferentes parámetros.
@@ -85,8 +83,6 @@ El otro método prueba la durabilidad de la pared y las viejas capas de producto
 ## Cubrir las paredes antes de empapelarlas, ¿cuándo es necesario?
 
 La imprimación de las paredes antes de colocar el papel o después de retirar el papel debe hacerse siempre, independientemente de si el edificio es nuevo o renovado. Tampoco importa qué tipo de yeso se ha utilizado en la habitación. La única diferencia es el tipo de imprimación que se va a utilizar.
-
-![](/uploads/priming3.jpg)
 
 ## Imprimación de pared - ¿cómo elegir el producto adecuado?
 
