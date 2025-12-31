@@ -76,8 +76,6 @@ Es el método más popular, que funciona si hay **residuos en el interior que ca
 
 Podría suceder que el tema fuera ignorado por tanto tiempo que las tuberías se han obstruido. En este caso hay que desatascar las tuberías.
 
-![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
-
 ### Revise los remedios caseros para las tuberías obstruidas, la mejor manera de desatascar el fregadero.
 
 Si el fregadero obstruido significa tuberías bloqueadas, puedes usar un método muy fácil con bicarbonato de sodio, vinagre y agua hirviendo. ¿Cómo desatascar el fregadero con este método?
