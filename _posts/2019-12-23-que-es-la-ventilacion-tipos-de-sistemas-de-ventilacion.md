@@ -83,8 +83,6 @@ En algunos casos la ventilación natural es obligatoria, está regulada por la l
 
 **La ventilación natural es la más vulnerable en invierno y verano.** Este sistema funciona gracias a las diferencias de temperatura entre el exterior y el interior del edificio. El aire del interior debe ser más caliente que el del exterior. Muy a menudo, especialmente cuando los conductos de ventilación están mal diseñados, el aire vuelve al edificio en verano. En invierno, en cambio, la ventilación natural puede ser la causa de una baja temperatura en el interior.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Sistema de ventilación en casa... ¿Vale la pena el equipo avanzado?
 
 En cuanto a la ventilación mecánica, hay varios tipos de sistema. Dependiendo del mecanismo, se pueden distinguir sistemas como:
@@ -152,8 +150,6 @@ Este tipo de sistema de ventilación funciona de la misma manera en casa y en un
 El aire de mayor temperatura proveniente del garaje tiene menor densidad que el aire más frío del exterior. Por eso fluye hacia arriba. Todo el proceso de convección es posible gracias a los respiraderos de aire, utilizados tanto para la ventilación en la casa como en el garaje.
 
 Si decides usar un sistema de ventilación de este tipo en el garaje, considera la posibilidad de conseguir rejillas de ventilación rectangulares o cuadradas de color marrón. La ventilación de la casa típicamente usa rejillas de ventilación blancas y redondas. Estos últimos son particularmente universales, ya que se adaptan a cualquier interior, independientemente del estilo en que se haya diseñado.
-
-![](/uploads/wentylacja_w_domu2.jpg)
 
 **También se puede usar la ventilación mecánica en el garaje.** Esta solución no sólo proporciona mucho aire fresco, sino que también lo seca. La ventilación mecánica no depende de las condiciones climáticas, por lo que funciona perfectamente en cualquier estación. Una condición necesaria para tal sistema de ventilación es una perfecta estanqueidad de la habitación. Además, el proceso de instalación lo convierte en una ventilación de garaje sustancialmente más cara. Uno también debe estar preparado para los costos de su mantenimiento.
 
