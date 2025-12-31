@@ -87,8 +87,6 @@ Una línea de goteo es una solución única y tiene muchas ventajas. Puede ahorr
 * **Un sistema de riego por goteo significa un menor riesgo de enfermedades de las plantas.** El agua se distribuye directamente en el suelo, de modo que no tiene contacto con las partes superficiales de las plantas. Evita la propagación de hongos y moho, lo que ocurre bastante a menudo cuando las plantas son rociadas con agua desde arriba. Una línea de goteo también elimina el problema de las hojas quemadas por el sol.
 * **Este sistema podría contribuir a una mejor cosecha de vegetales, frutas y hierbas.** Un sistema de riego por goteo apoya un mejor cuidado de las plantas y la independencia de las condiciones climáticas. No hay necesidad de preocuparse de que una sequía destruya los cultivos.
 
-![¿Cuáles son las ventajas de la irrigación por goteo?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "¿Cuáles son las ventajas de la irrigación por goteo?")
-
 ## ¿Dónde se puede usar un sistema de riego por goteo?
 
 Debido a que las líneas de goteo pueden cubrir áreas bastante grandes, es un sistema **recomendado para las tierras de cultivo**. Es perfecto para regar plantas como fresas, arándanos y árboles frutales. La instalación le da un control total sobre la cantidad de agua transportada a una planta. Gracias a esto no hay amenaza de riego excesivo, que podría causar la descomposición de las plantas. Es un aspecto importante que afecta a la calidad de la cosecha.
@@ -102,8 +100,6 @@ Un sistema de riego por goteo no es recomendable para el césped. En este caso s
 ## ¿Hay alguna desventaja en el riego por goteo?
 
 A pesar de los innegables beneficios de un sistema de riego por goteo, también hay que conocer sus desventajas. Es un sistema que no puede ser realmente movido, por lo tanto debe ser usado principalmente para plantas perennes. Una línea de goteo, como toda instalación de agua, es susceptible a la suciedad. Puede causar atascos. **Cada elemento del sistema debe ser mantenido regularmente**. Otro problema es la dificultad de ajustar la intensidad del riego para ciertas plantas. Puede ser resuelto usando un divisor para crear varias líneas de goteo independientes.
-
-![¿Hay alguna desventaja en el riego por goteo?](/uploads/linia-kroplujaca-nawadnianie.jpg "¿Hay alguna desventaja en el riego por goteo?")
 
 ## Sistema de riego por goteo. ¿Qué elementos se necesitan para crear una instalación?
 
@@ -140,8 +136,6 @@ Los sistemas de irrigación por goteo más simples se controlan simplemente abri
 {:.distinction.distinction-info.distinction-positive}
 
 Cuanto menos complicada es la instalación, menos cuesta. Por esta razón uno debería revisar todas las soluciones que podrían ser utilizadas. Los diseños pequeños pueden seguramente renunciar a los controladores electrónicos, a menos que la conveniencia sea la prioridad. Uno también puede disminuir los costos eligiendo instalar el sistema por sí mismo.
-
-![Sistema de riego por goteo - costos estimados](/uploads/podlewanie-kropelkowe.jpg "Sistema de riego por goteo - costos estimados")
 
 ## ¿Qué más se debe recordar cuando se instala el riego por goteo?
 
