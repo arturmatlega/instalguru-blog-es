@@ -69,8 +69,6 @@ La ubicación del radiador de toallas es otro tema importante cuando se planea u
 
 El diseño de un radiador de baño es a menudo clave para los propietarios que planean renovar su baño. Por esta razón, los radiadores tradicionales son reemplazados por radiadores de baño (toallas). Aparte de su función más básica - emitir el calor a la habitación, también sirven como decoración. Es más, son muy funcionales debido a que se puede secar ropa menor y toallas de baño sobre ellos.
 
-![](/uploads/grzejnik2.jpg)
-
 ## ¡Un radiador de baño con toalla es una buena opción!
 
 Los radiadores de toalla son una de las opciones más populares entre las personas que quieren renovar su baño. Es sobre todo por el hecho de que hay varios modelos de radiadores de toalla disponibles en el mercado. Lo que vale la pena destacar es que todos tienen una construcción similar.
@@ -112,8 +110,6 @@ Esta cuestión está relacionada con varios aspectos cruciales. La potencia de u
 ¿Te preguntas cómo instalar un radiador de baño? La instalación de un radiador de toallas es muy fácil. Si renueva su baño, puede hacerlo usted mismo fácilmente. El juego adquirido debe contener todos los elementos necesarios para la instalación. Sólo tiene que seguir algunas reglas.
 
 Como el radiador para baño de agua es el modelo más popular, presentamos la guía de instalación de este tipo de equipo.
-
-![](/uploads/grzejnik3.jpg)
 
 Apagar el agua es el aspecto más importante. Entonces, puedes seguir los pasos siguientes para instalar el radiador del baño:
 
