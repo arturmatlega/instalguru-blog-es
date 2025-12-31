@@ -83,8 +83,6 @@ La baja presión de agua no siempre es el resultado de la misma causa. Un conjun
 
 Otra razón para la baja presión del agua, tan común como la acumulación de cal, es una fuga en el sistema. **Las tuberías y accesorios no sellados que se utilizan para transmitir el agua podrían causar una fuga fuera del sistema, y sólo una parte de ella llega al punto final**. ¿Cómo aumentar la presión del agua en tal caso? Asegúrese de volver a sellar o reemplazar los elementos rotos.
 
-![](/uploads/water_pressure.jpg)
-
 ## ¿Presión de agua perfecta? Cuidar el equipo adecuado
 
 La baja presión del agua en la ducha es probablemente el resultado de un equipo inadecuado, como un cabezal de ducha o una ducha de lluvia. **Los accesorios de la ducha deben coincidir con la presión del sistema**. El equipo de altos requisitos técnicos no funcionará correctamente.
