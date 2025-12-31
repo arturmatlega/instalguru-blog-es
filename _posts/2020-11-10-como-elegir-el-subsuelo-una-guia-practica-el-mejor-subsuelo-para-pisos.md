@@ -87,8 +87,6 @@ Tal vez le interese un **buen subsuelo que proporcione el nivel adecuado de aisl
 
 Este tipo de material es una elección perfecta si el subsuelo necesita nivelación. El subsuelo de espuma XPS está disponible en varios espesores, a veces incluso 6 mm. Es, por lo tanto, un perfecto aislamiento y funciona idealmente en interiores no calefactados. También es una buena solución si se necesita un subsuelo para la calefacción radiante. La base de poliestireno extruido es resistente a la humedad, reduce los sonidos transmitidos y proporciona durabilidad al suelo.
 
-![](/uploads/underlay2.jpg)
-
 ## El mejor subsuelo para el suelo - suelos con calefacción radiante
 
 Los materiales destinados a ser utilizados con calefacción por suelo radiante deben cumplir ciertos requisitos especiales. ¿Qué suelo base es el mejor en este caso? Como sugieren los expertos, vale la pena considerar las alfombras de polietileno de alta densidad. Tales productos se llaman comúnmente HDPE.
@@ -116,8 +114,6 @@ Aunque en la mayoría de los casos se trata de un buen subsuelo, esta solución 
 ## ¿Cuál es el mejor subsuelo para un subsuelo irregular?
 
 Si la superficie es irregular, un buen subsuelo es un tema crucial. Colocar tablas de piso sobre un subsuelo desigual puede hacer que se muevan, se doblen y se dañen. Para evitarlo, asegúrese de hacer la superficie incluso antes de colocar el laminado o el piso de vinilo.
-
-![](/uploads/underlay3.jpg)
 
 ¿Cuál es el mejor subsuelo en este caso? Si el subsuelo sólo tiene diferencias menores, se recomienda el poliestireno extruido (XPS). Suaviza las irregularidades, de modo que el suelo queda perfectamente uniforme. Si el subsuelo tiene más abolladuras, y las diferencias de altura son bastante visibles, se debe verter un nuevo suelo de hormigón. Un subsuelo ordinario no es, por desgracia, suficiente.
 
