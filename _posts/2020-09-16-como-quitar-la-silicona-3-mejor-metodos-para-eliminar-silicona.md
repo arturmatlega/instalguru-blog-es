@@ -75,8 +75,6 @@ El método de eliminación de la silicona **depende del tipo de superficie cubie
 
 Tienes que asegurarte de que la superficie está limpia, especialmente si estás quitando sellador de silicona en un baño de baldosas. Coge todos los objetos que estén en la bañera o en la base de la ducha y lava los **azulejos y las juntas con cuidado**. Use una crema limpiadora especial o un detergente común como el jabón para platos. Asegúrate de quitar las manchas de jabón - de esta manera la eliminación del sellador de silicona será más fácil y eficaz.
 
-![Elección de un removedor de silicona: las cuestiones más importantes](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Elección de un removedor de silicona: las cuestiones más importantes")
-
 ## Un removedor químico de silicona - ¿es un método efectivo?
 
 **Un removedor químico de silicona que se puede comprar en las típicas ferreterías**, es uno de los métodos más populares. Estos productos contienen fuertes disolventes que disuelven rápidamente los selladores de silicona y permiten su fácil eliminación.
@@ -99,8 +97,6 @@ Un removedor de silicona demasiado agresivo podría empañar la superficie. En c
 
 El **olor desagradable** es definitivamente una gran desventaja de usar un removedor de sellador químico. Los productos como este típicamente contienen acetona. Después de quitar el sellador de silicona con este método, asegúrese de ventilar la habitación. En caso de que usted o alguien que viva con usted sea particularmente sensible a estos olores acre, considere la posibilidad de quitar el sellador de silicona con un método más ecológico.
 
-![¿Cómo se usa un removedor químico de silicona?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "¿Cómo se usa un removedor químico de silicona?")
-
 ## Un removedor de silicona ecológico. ¿Cómo quitar el sellador de silicona sin productos químicos?
 
 ¿Estás ansioso de que un **removedor de sellador químico fuerte pueda** ser demasiado fuerte? ¿O tal vez sólo quiere probar un método menos costoso? Tenemos una solución fantástica para usted. Es posible quitar un sellador de silicona de una manera suave, lo que no significa que sea menos efectivo.
@@ -117,8 +113,6 @@ Después de limpiar la superficie, haga un corte en un lado del sellador. Tire d
 ### ¿Cómo quitar el sellador de silicona que se rompió y se quedó en la superficie?
 
 **Esparcir la grasa sobre cualquier residuo del sellador.** Espere un tiempo hasta que la silicona absorba el aceite, y luego raspe con una esponja seca o un pedazo de tela. Como este método hace que la superficie sea muy aceitosa, asegúrese de desengrasarla antes de poner una nueva capa de sellador. Para hacer esto, use un detergente.
-
-![¿Cómo quitar el sellador de silicona que se rompió y se quedó en la superficie?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "¿Cómo quitar el sellador de silicona que se rompió y se quedó en la superficie?")
 
 ## ¿Cómo quitar la silicona de la ropa, la madera, las manos? La temperatura de uso
 
