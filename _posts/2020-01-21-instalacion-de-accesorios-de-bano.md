@@ -67,8 +67,6 @@ Esta última solución es particularmente atractiva para aquellos que han elegid
 
 La instalación del lavabo debe comenzar con la colocación de un desagüe automático en el desagüe. Luego instalar el grifo. **Durante ambos pasos, recuerde insertar sellos que protejan el lavabo de las fugas.** Coloque el sifón del fregadero e inserte un tubo de desagüe en el lateral del elemento y enrosque la tapa. Puede hacerlo fácilmente por sí mismo, y lo que es más - puede hacerse manualmente - no se necesitan herramientas especiales.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## ¿Cómo se instala un tocador?
 
 Los muebles de cocina son uno de los lavabos de baño más populares. Se ven perfectos en los modernos interiores de estilo escandinavo. Son típicamente redondos o elípticos. El mercado ofrece una amplia variedad de equipos de este tipo, por lo que cualquiera puede ajustar un producto ideal a sus necesidades individuales.
