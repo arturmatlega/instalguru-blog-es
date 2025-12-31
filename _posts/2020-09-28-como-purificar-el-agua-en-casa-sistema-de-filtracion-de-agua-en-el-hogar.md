@@ -70,8 +70,6 @@ A muchas personas les preocupa la calidad del agua del grifo. En realidad, si el
 
 **El sabor químico que es común en el agua del grifo es el resultado de procesos de desinfección con cloro**. Es uno de los problemas más frecuentemente mencionados por los usuarios de agua del grifo. Sin embargo, esto no significa que el agua de un pozo privado sea perfecta. En este caso, el sabor a hierro es un problema común. Todo depende de la ubicación y la profundidad de la fuente.
 
-![¿Cuál es la razón de los problemas de sabor del agua?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "¿Cuál es la razón de los problemas de sabor del agua?")
-
 ## El agua de su propia fuente, ¿es más saludable que la de un proveedor?
 
 Se cree que el agua de su propio pozo es de mejor calidad que la de un sistema de suministro de agua local. ¿Cuál es la realidad? **Conectando la casa a la red de agua, uno puede estar seguro de que el agua es segura**, lo cual ya ha sido explicado. Las pruebas regulares eliminan la presencia de sustancias peligrosas. En el caso de los pozos privados, uno tiene que controlar la calidad del agua por sí mismo. A menudo se descuida debido a la cantidad de dinero que se cobra por el procedimiento.
@@ -98,8 +96,6 @@ Hay varios tipos de filtros de agua disponibles en el mercado, con diferentes pa
 
 Los tipos más simples son los filtros de agua **de malla, cuerda y espuma**. También se llaman filtros mecánicos o de sedimentos. Gracias a ellos, el sistema de filtración de agua elimina las partículas de arena y óxido, invisibles a simple vista. La eficiencia de estos cartuchos depende de su densidad y de cuán grandes sean las partículas que pueden detener.
 
-![Soluciones de filtración de agua - ¿qué purificador de agua es el mejor?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Soluciones de filtración de agua - ¿qué purificador de agua es el mejor?")
-
 Los filtros de agua de hierro son otra opción popular, usada principalmente para los pozos privados. **Al igual que los cartuchos mecánicos, suelen instalarse en tuberías en una carcasa especial de tamaño y construcción adecuados**. La función de esos equipos es eliminar los compuestos de hierro nocivos. También eliminan parcialmente el nitrógeno o incluso el sulfuro de hidrógeno.
 
 Muchos hogares tienen el problema **del llamado agua dura**. Significa que contiene mucho calcio y magnesio. Tampoco es un problema, ya que un filtro suavizador de agua adecuado eliminará los sedimentos del líquido.
@@ -109,8 +105,6 @@ Muchos hogares tienen el problema **del llamado agua dura**. Significa que conti
 Un filtro multimedia es una de las mejores opciones para un hogar. Este tipo de dispositivo es **altamente eficiente**. Gracias a él, el purificador de agua puede eliminar varios tipos de sustancias. Dependiendo del medio, se pueden lograr varios resultados.
 
 **El medio no es más que un material especial de llenado del tanque**, que absorbe sustancias nocivas. Según el tipo, hay que lavarlo o regenerarlo de vez en cuando. También hay otro aspecto importante - un purificador de agua como un tanque de filtro necesita estar conectado a la red eléctrica y al sistema de alcantarillado.
-
-![Tanque de filtro multimedia - ¿cómo funciona un sistema moderno de purificación de agua?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Tanque de filtro multimedia - ¿cómo funciona un sistema moderno de purificación de agua?")
 
 ## Sistema de filtración de agua casera. ¿Vale la pena instalar un filtro de ósmosis inversa?
 
