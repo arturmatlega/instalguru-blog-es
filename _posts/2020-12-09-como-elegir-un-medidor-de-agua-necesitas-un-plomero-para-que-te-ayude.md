@@ -85,8 +85,6 @@ Un medidor digital de agua es definitivamente mucho más preciso, por lo que se 
 
 Si elige un medidor de agua, sepa que los dispositivos están clasificados por su uso previsto para el agua caliente y fría. Un dispositivo no es suficiente, a menos que use un calentador para calentar agua fría. En este caso, sólo necesitas un contador de agua para el agua fría.
 
-![](/uploads/wodomierz2.jpg)
-
 ### Un medidor de agua especializado
 
 Si sólo necesitas un medidor de agua residencial para tu casa o apartamento - no debería haber problemas para encontrar el adecuado. Sin embargo, puede que necesites un fontanero y sus conocimientos si necesitas un contador de agua especializado. Puede encontrar los siguientes dispositivos en el mercado:
