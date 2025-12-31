@@ -86,8 +86,6 @@ Elegir la forma correcta de un asiento de inodoro podría ser un proceso similar
 
 También hay otro grupo de productos, diseñados específicamente para los niños. Se trata de un asiento de inodoro especial con una cubierta adjunta que permite a un niño pequeño usar el inodoro normalmente.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## Un moderno asiento de inodoro
 
 Al elegir el asiento del inodoro, también se puede prestar atención a las tecnologías modernas que facilitan el uso del baño. Una de las características más básicas en este sentido es un asiento de inodoro con el llamado cierre suave, que tiene muchas ventajas.
