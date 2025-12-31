@@ -73,8 +73,6 @@ Utilizando esta moderna solución, un edificio de varias unidades o una vivienda
 * Puede ubicarse en cualquier lugar - el dispositivo puede colocarse en cualquier lugar que el usuario considere adecuado, por ejemplo en una lavandería o sala de secado, o en cualquier otro cuarto de servicio. No es posible para una caldera.
 * Sin depósito de combustible - gracias a la bomba, no es necesario instalar un depósito de gasóleo, gas o cualquier otro tipo de combustible.
 
-![](/uploads/tenement2.jpg)
-
 ## ¿Pueden las casas de vecindad y los edificios de apartamentos utilizar calefacción por suelo radiante?
 
 La calefacción por suelo radiante se utiliza a menudo en los modernos edificios de varias unidades. La decisión, en este caso, la toman los propietarios de los apartamentos individuales. Hay dos soluciones para elegir. Una podría usar un suelo radiante a base de agua o eléctrico. Cada opción genera un alto confort térmico, aunque funcionan de manera muy diferente. Los sistemas a base de agua son definitivamente más populares.
@@ -92,8 +90,6 @@ La calefacción por suelo radiante se utiliza a menudo en los modernos edificios
 ## Calderas de condensación para edificios de varias unidades
 
 Las calderas de condensación son una alternativa para calentar viviendas o edificios de apartamentos. Los dispositivos de este tipo proporcionan el mayor confort térmico con un mínimo uso de energía. Las calderas de condensación son respetuosas con el medio ambiente y pueden reducir los costes de utilización del sistema de calefacción.
-
-![](/uploads/tenement3.jpg)
 
 ### ¿Cómo funciona una caldera de condensación?
 
