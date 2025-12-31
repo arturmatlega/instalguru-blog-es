@@ -77,8 +77,6 @@ Un sistema de gas con tubos de cobre crea muchas posibilidades para su conexión
 
 Otro método consiste en utilizar accesorios de prensa. En este caso en particular, un accesorio PEX habitual será suficiente. Sin embargo, si desea cambiar la dirección del sistema de gas y ajustarlo a la construcción del edificio, utilice las tes PEX o los codos de presión. El proceso de instalación de tales elementos es actualmente uno de los más fáciles, por lo que todo especialista debería ser capaz de hacerlo. Este hecho definitivamente reduce los costos de la instalación de gas.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Tuberías de acero - ¿la instalación de gas es más propensa a los factores dañinos?
 
 Las tuberías de acero utilizadas para la instalación de gas tienen mayores diámetros que las de cobre. Las paredes de un tubo de acero son más gruesas, por lo tanto es más rígido y no necesita ser fijado a una pared con elementos adicionales. Desafortunadamente este tipo de instalación es muy pesada. **Una instalación de gas casera como esta también es significativamente más pesada**. Al igual que las líneas de cobre, los tubos empinados son térmicamente expandibles. Gracias a esta característica, son perfectas para altas temperaturas.
