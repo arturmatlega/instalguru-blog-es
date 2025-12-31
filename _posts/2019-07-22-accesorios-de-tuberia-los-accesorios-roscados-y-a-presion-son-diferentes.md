@@ -73,8 +73,6 @@ La diferencia de los sistemas de calefacción con los accesorios PEX radica en e
 
 ### Sistemas de calefacción con accesorios roscados
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Cada sistema de calefacción utiliza **tubos PEX/AL/PEX** como base. Sin embargo, están conectados entre sí con varios accesorios. Un accesorio roscado consiste en los siguientes elementos:
 
 1. Una tuerca roscada.
@@ -90,8 +88,6 @@ Threaded pipe fittings have a threaded nut which needs to be twisted off the die
 Ten cuidado de no apretar la tuerca, ya que podrías dañar tanto el accesorio como la tubería.
 
 ### Un sistema de calefacción con accesorios de tubería a presión
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 Los accesorios de tubería de presión también se utilizan comúnmente en los sistemas de calefacción. Hay varios elementos en los accesorios de tubería de presión:
 
