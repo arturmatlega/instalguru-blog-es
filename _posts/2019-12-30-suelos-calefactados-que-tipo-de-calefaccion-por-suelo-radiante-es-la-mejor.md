@@ -82,8 +82,6 @@ Desperdiciar el potencial térmico y generar costos innecesarios es otra cuesti�
 
 El costo de los pisos calefaccionados incluye tanto l**os materiales como el servicio de instalación**. Tenga en cuenta que los costes calculados inicialmente son sólo valores estimados. El total de los gastos puede verse afectado por el equipo necesario, la calidad y, sobre todo, el pago a la persona que instala los elementos, que suele depender de la región.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Calefacción eléctrica del suelo... ¿cuándo debería elegirla?
 
 **El suelo radiante eléctrico tiene muchas ventajas**. Es fácil de instalar en cualquier tipo de espacio en cualquier edificio. Puede ser usado como el sistema de calefacción principal de la casa o apartamento, así como un complemento a otro método.
