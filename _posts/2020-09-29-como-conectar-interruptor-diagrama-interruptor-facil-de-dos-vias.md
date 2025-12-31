@@ -54,8 +54,6 @@ Los especialistas clasifican los interruptores de luz de acuerdo a varios criter
 
 A juzgar por la estética, también se pueden distinguir los interruptores de luz según el tipo de botones. Los fabricantes ofrecen interruptores tradicionales con un botón mecánico. Los interruptores de luz táctil están ganando popularidad. Tienen un panel liso con un sensor que reacciona al tacto.
 
-![Interruptor de luz de dos vías, ¿cuáles son sus características?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Interruptor de luz de dos vías, ¿cuáles son sus características?")
-
 ### Interruptor de luz de dos y tres vías
 
 Los interruptores de luz de dos vías son un tipo especial de dispositivos. Permiten controlar una fuente de luz desde dos lugares diferentes. Es una solución particularmente útil en las escaleras, para no tener que volver a subir o bajar para apagar la luz.
@@ -85,8 +83,6 @@ Cada interruptor, de una o varias maneras, funciona basado en un principio simil
 
 Para conectar el interruptor de luz unidireccional más sencillo, hay que conectar cables entre el interruptor y la bombilla. **Vea el diagrama de dicho circuito a continuación:**
 
-![Interruptor de la luz - principio general de funcionamiento](/uploads/jak_podlaczyc_wlacznik_schemat1_es.jpg "Interruptor de la luz - principio general de funcionamiento")
-
 Bajo ninguna circunstancia mezclar los cables - por ejemplo la fase con la línea neutral. Sería una amenaza durante el cambio de una bombilla - ¡incluso cuando la luz está apagada!
 
 ### Interruptor de dos vías - diagrama
@@ -95,16 +91,8 @@ Conectar un circuito de interruptor de dos vías es un poco más complicado, ya 
 
 Un diagrama de conmutación de dos vías es más elaborado. En este caso, el conductor fásico se conecta con uno de los interruptores de dos vías, y la fuente de luz, con el otro. El cable neutro y el conductor de tierra se conducen a la fuente de luz de forma independiente. Los dos interruptores deben conectarse entre sí con cables adicionales.
 
-**Vea el diagrama del interruptor de dos vías a continuación:**
-
-![Interruptor de dos vías - diagrama](/uploads/jak_podlaczyc_wlacznik_schemat2_es.jpg "Interruptor de dos vías - diagrama")
-
 ### ¿Cómo conectar un interruptor de luz de tres vías?
 
 Como ya se ha mencionado, **es posible cablear más de dos interruptores de luz para la misma fuente de luz**. Para hacer esto, se necesita usar un interruptor de luz de tres vías. El esquema de tal conexión no es muy diferente del diagrama del interruptor de dos vías - hay un tercer interruptor entre los dos externos. El número de interruptores intermedios es ilimitado, y puede ser ajustado según sea necesario. Gracias a éste será capaz de apagar la luz de la escalera mientras está en otra habitación.
-
-**Vea el diagrama del interruptor de luz de tres vías que se presenta a continuación:**
-
-![¿Cómo conectar un interruptor de luz de tres vías?](/uploads/jak_podlaczyc_wlacznik_schemat3_es.jpg "¿Cómo conectar un interruptor de luz de tres vías?")
 
 **Conectar un interruptor de dos o tres vías no es tan difícil como podría parecer.** Si tienes el diagrama de conmutación correcto, puedes hacerlo fácilmente por ti mismo.
