@@ -61,8 +61,6 @@ Los elementos que aparecen en la estructura de madera dependen en gran medida de
 
 Hay muchos tipos de armazones de madera disponibles en el mercado. **La decisión de qué cercha para el techo se debe tomar en la etapa de diseño del edificio**. Antes de elegir una solución particular, uno debe considerar factores como el tamaño y la forma de la casa, el presupuesto y el aspecto de la estética. Las casas estándar suelen utilizar una cercha simple, una cercha de vigas de cuello o una cercha de postes de reina.
 
-![Tipos de tejados - ¿qué tipos de cerchas de tejado son los más populares?](/uploads/wiezba-dachowa-budowa-domu.jpg "Tipos de tejados - ¿qué tipos de cerchas de tejado son los más populares?")
-
 ### Una simple cercha de techo
 
 Tal construcción puede ser usada cuando las paredes del edificio no están a más de 7 metros de distancia. **La inclinación del techo no debe ser mayor de 45 grados**. Una simple cercha de techo es uno de los tipos de armazón de madera más utilizados. Utiliza vigas y correas normales que juntas forman una cercha que descansa en las paredes del edificio. Las vigas se apoyan sólo en dos puntos: en las paredes y en la cresta.
@@ -85,8 +83,6 @@ Hay muchos tipos de tejados disponibles en el mercado. La decisión final, por s
 
 * La preparación **tradicional de las cerchas de techo** requiere elegir los materiales por separado. Las vigas del techo deben comprarse en un molino de madera, y el techo mismo se construye en el lugar. Las vigas de madera maciza suelen alcanzar hasta 7 metros. Si el proyecto necesita vigas más largas, se deben elegir elementos de madera pegados junto con refuerzos de acero.
 * **Las cerchas prefabricadas del techo** son definitivamente más versátiles en términos de tamaño. Debido a que los elementos encajan perfectamente, esta solución requiere mucha menos madera que los proyectos tradicionales. El proceso de instalación es definitivamente más rápido - se hace por el equipo del fabricante. En este caso el espacio en el ático es seriamente limitado, lo que podría ser una desventaja para algunos.
-
-![Las cerchas tradicionales de los tejados frente a los marcos de madera prefabricada](/uploads/konstrukcje-dachu.jpg "Las cerchas tradicionales de los tejados frente a los marcos de madera prefabricada")
 
 ## ¿Qué madera es la mejor para las cerchas del techo?
 
