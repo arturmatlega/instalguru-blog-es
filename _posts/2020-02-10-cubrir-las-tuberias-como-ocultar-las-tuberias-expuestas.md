@@ -62,8 +62,6 @@ Recuerde que el panel de yeso creado sólo se verá bien si se encarga de un aca
 
 Si te preguntas cómo ocultar las tuberías en un baño pequeño, el panel de yeso también es adecuado en este caso. **Sin embargo, hay que tener en cuenta que los interiores de mayor humedad requieren placas de yeso especiales a prueba de agua.** Son significativamente más duraderos y menos vulnerables a los factores dañinos.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Ocultar las tuberías con color
 
 ¿Estás buscando una forma rápida de esconder las tuberías? Hay un método mucho más barato y menos invasivo que cubrir las tuberías con cartón-yeso, pintándolas del color de la pared. Es mejor hacerlo junto con el acabado o la renovación del interior. Lo único que debe recordar en este caso es elegir exactamente el mismo color en el que se han pintado las otras partes del interior. De esta manera, las tuberías se mezclarán perfectamente en la pared, y serán prácticamente invisibles.
@@ -79,8 +77,6 @@ Si quieres ocultar las tuberías situadas bajo el techo o en el suelo, la forma 
 {:.distinction.distinction-info.distinction-negative}
 
 Para cubrir los elementos no deseados situados justo al lado del suelo, utilice un sofá ancho y colóquelo al lado de la pared, a lo largo de su longitud. Es un método muy asequible - no tienes que hacer ninguna renovación.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Boxeo especial de tuberías
 
