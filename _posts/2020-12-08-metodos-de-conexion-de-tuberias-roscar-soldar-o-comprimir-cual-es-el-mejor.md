@@ -77,8 +77,6 @@ Las tuberías de polipropileno necesitan ser conectadas con una soldadora de fus
 
 Los elementos del sistema PP-R también pueden ser conectados por rosca. Para ello, se necesitan accesorios con una rosca especial de latón macho o hembra. Además, se necesita un producto especial para facilitar el proceso. El aceite de la rosca es muy recomendable.
 
-![](/uploads/pipes2.jpg)
-
 ## ¿Cómo conectar las tuberías PEX? La información más importante
 
 Para conectar las tuberías de los sistemas de calefacción central y agua caliente, se utilizan accesorios roscados o de compresión. Ambos métodos de conexión de tuberías PEX proporcionan resultados satisfactorios y son resistentes a varios factores.
@@ -86,8 +84,6 @@ Para conectar las tuberías de los sistemas de calefacción central y agua calie
 Si se utilizan elementos roscados, sólo hay que apretar la tuerca para conectar el tubo y el accesorio. De esta manera, el anillo de sujeción se presionará contra el tubo. La forma especial del anillo impide que se mueva cuando se aprieta la tuerca.
 
 Si se utilizan accesorios comprimidos, hay que colocar un collarín de contracción especial directamente en el tubo. Este método de conexión del tubo también requiere una herramienta especial de prensado. La herramienta debe colocarse en el collarín, y el compresor se enciende. Después de unos segundos se puede oír una grieta característica, que significa que el collar ha sido conectado con el tubo.
-
-![](/uploads/pipes3.jpg)
 
 ## Conexión de tuberías de PE - ¿qué métodos son los mejores?
 
